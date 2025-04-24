@@ -1,0 +1,25 @@
+instructors:
+  - name: Ali Bereyhi
+    profile_pic: /_images/pp/instructor.jpg
+    title: Assistant Professor (TS)
+    affil: ECE Department
+    address: Bahen 7208
+    webpage: https://www.bereyhi.com/
+
+
+teaching_assistants:
+  - name: TBA
+    profile_pic: /_images/pp/TAava.png
+    # webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+
+  - name: TBA
+    profile_pic: /_images/pp/TAava.png
+    # webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+
+  - name: TBA
+    profile_pic: /_images/pp/TAava.png
+    # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  
+  - name: TBA
+    profile_pic: /_images/pp/TAava.png
+    # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
