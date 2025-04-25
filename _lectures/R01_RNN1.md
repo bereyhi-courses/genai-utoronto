@@ -8,5 +8,5 @@ description: This is a lecture on sequence data and RNNs.
 videoID: S_dyjvxqnlU
 ---
 **Suggested Readings:**
-- [AplDL Notes: Sequence Data]({{ site.baseurl }}/static_files/AplDL/AplDL_SeqData.pdf)
+- [AplDL Notes: Sequence Data](/static_files/AplDL/AplDL_SeqData.pdf)
 - [AplDL Notes: Recurent NNs](/static_files/AplDL/AplDL_RNNs.pdf)
