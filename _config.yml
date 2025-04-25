@@ -19,8 +19,8 @@ project_desc: "predefined project from the list of suggestions or open-ended"
 project_txt: "The course project procedure is illustrated in a seperate page. In a nutshell, however, the project will be in groups. Each group selects a topic from the predefined project list. Each group will then work on the project through the semester and present its final result at the end in a report and a short presentation. You have the option to choose your topic. In this case, your topic should be confirmed by the instructor and your project work description should be prepared to prepare to that of predefined ones. The course project is the key evaluator and comprises 30% of the course work."
 
 
-baseurl: "/genai-utoronto/" # the subpath of your site, e.g. /blog/
-url: "http://genai.bereyhi.com/" # the base hostname & protocol for your site
+baseurl: "/genai-utoronto" # the subpath of your site, e.g. /blog/
+url: "https://bereyhi-courses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Toronto"
 schoolurl: "https://www.ece.utoronto.ca"
