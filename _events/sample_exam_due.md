@@ -1,10 +1,10 @@
 ---
 type: exam
-date: 2018-12-02T8:0:0+3:30
+date: 2025-06-24T18:0:0-4:00
 description: 'Midterm'
 hide_from_announcments: true
 ---
 **Topics:**
-1. Topic 1
-2. Topic 2
-3. Topic 3
+- It is expected to cover up to VAEs
+- The exam is 3 hours long
+- No programming questions

@@ -14,7 +14,7 @@ layout: default
             <div class="col col-1">Event</div>
             <div class="col col-1-2">Date</div>
             <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
+            <div class="col col-4">Description</div>
         </li>
         
         {% assign all_assignment_dues = site.assignments | map: "due_event" %}
@@ -25,9 +25,11 @@ layout: default
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
         {% for event in all_events_sorted %}
+        {% if event.type != "lecture" or event.stat != "review" %}
         <li class="table-row table-row-{{ event.type}}">
             {% include schedule_row_{{ event.type }}.html event=event %}
         </li>
+        {% endif %}
         {% endfor %}
 
     </ul>

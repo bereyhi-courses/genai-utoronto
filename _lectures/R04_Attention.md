@@ -6,7 +6,8 @@ tldr: "Attention"
 stat: review
 description: A lecture on attention mechanism.
 videoID: _4weXZtDw5E
+hide_from_announcments: true
 ---
 **Suggested Readings:**
-- [AplDL Lecture Notes](/static_files/presentations/lec.jpg)
+- [AplDL Notes: Attention Mechanism]({{ site.baseurl }}/assets/AplDL/AplDL_Attention.pdf)
 

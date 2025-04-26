@@ -1,7 +1,7 @@
 ---
 type: raw_event
-date: 2019-01-26T08:00:00+3:30
+date: 2025-05-06T18:00:00-4:00
 name: Session
-description: 'Sample Raw Event'
+description: 'First Lecture'
 hide_from_announcments: true
 ---

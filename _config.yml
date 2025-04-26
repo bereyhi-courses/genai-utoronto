@@ -46,7 +46,11 @@ minima:
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['_images', '_css', 'static_files']
+include:
+  - assets
+  - _images
+  - _css
+
 exclude: ['develop']
 
 dateformat: "%m/%d/%Y"
@@ -61,7 +65,6 @@ collections:
         output: true
     announcements:
         output: false
-
 
 defaults:
   - scope:

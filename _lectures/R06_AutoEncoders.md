@@ -6,7 +6,10 @@ tldr: "Autoencoders"
 stat: review
 description: An introduction to auto-encoding and its applications.
 videoID: tcz-ctCzwyc
+hide_from_announcments: true
 ---
 **Suggested Readings:**
-- [AplDL Lecture Notes](/static_files/presentations/lec.jpg)
+- [AplDL Notes: Nonlinear PCA]({{ site.baseurl }}/assets/AplDL/AplDL_nPCA.pdf)
+- [AplDL Notes: Autoencoders]({{ site.baseurl }}/assets/AplDL/AplDL_AEs.pdf)
+- [AplDL Notes: Variational Autoencoders]({{ site.baseurl }}/assets/AplDL/AplDL_VAE.pdf)
 

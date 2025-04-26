@@ -6,7 +6,11 @@ tldr: "Seq2Seq"
 stat: review
 description: A lecture on sequence to sequence models.
 videoID: Lg1DsTBDem0
+hide_from_announcments: true
 ---
 **Suggested Readings:**
-- [AplDL Lecture Notes](/static_files/presentations/lec.jpg)
+- [AplDL Notes: Basic Language Model]({{ site.baseurl }}/assets/AplDL/AplDL_Seq2Seq_LM.pdf)
+- [AplDL Notes: Encoder-Decoder]({{ site.baseurl }}/assets/AplDL/AplDL_Seq2Seq_EncDec.pdf)
+- [Seq2Seq Learning Paper](https://arxiv.org/abs/1409.3215v3)
+
 
