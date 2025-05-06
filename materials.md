@@ -4,6 +4,14 @@ title: Materials
 permalink: /materials/
 ---
 
+## Lecture Notes
+
+### Chapter 0: Overview and Logistics
+* [Handouts]({{site.baseurl}}/assets/Notes/CH0.pdf): All Sections
+
+### Chapter 1: Text Generation via Language Models
+* [Handouts]({{site.baseurl}}/assets/Notes/CH1_Sec1.pdf): Fundamentals of Language Modeling
+
 ## Book
 
 There is indeed no single textbook for this course, and we use various resources in the course. The following recent textbooks are however good resources for __practicing hands-on skills.__ Note that we are __not__ simply learn to implement only! We study the fundamentals that led to development of this framework, nowadays known as __generative AI.__ Of course, we try to get our hands dirty as well and learn how to do implementation.
