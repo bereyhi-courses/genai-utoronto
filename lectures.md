@@ -3,4 +3,4 @@ layout: lectures
 title: Lecture Videos
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+Here, you can find the recordings of the lecture videos.

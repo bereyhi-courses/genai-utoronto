@@ -8,18 +8,18 @@ instructors:
 
 
 teaching_assistants:
-  - name: TBA
+  - name: Likun Cai
     profile_pic: /_images/pp/TAava.png
-    # webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    webpage: mailto:likun.cai@mail.utoronto.ca
 
-  - name: TBA
+  - name: Amir Hossein Mobasheri
     profile_pic: /_images/pp/TAava.png
-    # webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+    webpage: mailto:amir.mobasheri@mail.utoronto.ca
 
-  - name: TBA
+  - name: Amirhosein Rostami
     profile_pic: /_images/pp/TAava.png
-    # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+    webpage: mailto:amirhosein.rostami@mail.utoronto.ca
   
-  - name: TBA
+  - name: Mohammadreza Safavi
     profile_pic: /_images/pp/TAava.png
-    # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+    webpage: mailto:mohammadreza.safavi@mail.utoronto.ca

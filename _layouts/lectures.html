@@ -2,12 +2,12 @@
 layout: page
 ---
 
-<h1>Review Lectures</h1>
-<p>Here, you can find review lectures on some key deep learning topics. It is strongly suggested that you watch these videos to recap those key concepts, as they are frequently used in the course.</p>
+<h1>Lectures</h1>
+<p>{{content}}</p>
 
 <ul id="archive">
 {% for lecture in site.lectures %}
-{% if lecture.stat == "review" %}
+{% if lecture.stat == "lec" %}
 <li class="archiveposturl" style="background: transparent">
 <div class="lecture-container">
     <div style="text-align: center; margin-top: 0px; margin-bottom: 10px; margin-right: 20px;">
@@ -41,12 +41,12 @@ layout: page
 {% endfor %}
 </ul>
 
-<h1>Lectures</h1>
-<p>Here, you can find the recordings of the lecture videos.</p>
+<h1>Review Lectures</h1>
+<p>Here, you can find review lectures on some key deep learning topics. It is strongly suggested that you watch these videos to recap those key concepts, as they are frequently used in the course.</p>
 
 <ul id="archive">
 {% for lecture in site.lectures %}
-{% if lecture.stat == "lec" %}
+{% if lecture.stat == "review" %}
 <li class="archiveposturl" style="background: transparent">
 <div class="lecture-container">
     <div style="text-align: center; margin-top: 0px; margin-bottom: 10px; margin-right: 20px;">

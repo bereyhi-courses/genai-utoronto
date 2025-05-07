@@ -69,7 +69,7 @@ layout: default
       </div> -->
       
       <div class="profile-pic-gallary" style="width:95%; float: left">
-        <h2>Instructors</h2>
+        <h2>Instructor</h2>
         {% for ins in site.data.people.instructors %}
         <div class="image--cover-container">
           <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
@@ -90,7 +90,7 @@ layout: default
       <div class="profile-pic-gallary ">
         <h2>Teaching Assistants</h2>
         {% for ta in site.data.people.teaching_assistants %}
-        <div class="image--cover-container">
+        <div class="image--cover-container" style="width:20%; float: left">
           <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
           {% if ta.webpage %}
           <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
