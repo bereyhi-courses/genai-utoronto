@@ -117,45 +117,107 @@
 
   <article class="post-content">
     <h2 id="lecture-notes">Lecture Notes</h2>
-
-<h3 id="chapter-0-overview-and-logistics">Chapter 0: Overview and Logistics</h3>
+<p>The lecture notes are uploaded through the semester. For each chapter, the notes are provided section by section.</p>
+<h3 id="chapter-0-course-overview-and-logistics">Chapter 0: Course Overview and Logistics</h3>
 <ul>
-  <li><a href="/genai-utoronto/assets/Notes/CH0.pdf">Handouts</a>: All Sections</li>
+  <li><a href="/genai-utoronto/assets/Notes/CH0/CH0.pdf">Handouts</a>: All Sections included in a single file</li>
 </ul>
 
 <h3 id="chapter-1-text-generation-via-language-models">Chapter 1: Text Generation via Language Models</h3>
 <ul>
-  <li><a href="/genai-utoronto/assets/Notes/CH1_Sec1.pdf">Handouts</a>: Fundamentals of Language Modeling</li>
+  <li><a href="/genai-utoronto/assets/Notes/CH1/CH1_Sec1.pdf">Section 1</a>: Fundamentals of Language Modeling</li>
 </ul>
 
 <h2 id="book">Book</h2>
 
-<p>There is indeed no single textbook for this course, and we use various resources in the course. The following recent textbooks are however good resources for <strong>practicing hands-on skills.</strong> Note that we are <strong>not</strong> simply learn to implement only! We study the fundamentals that led to development of this framework, nowadays known as <strong>generative AI.</strong> Of course, we try to get our hands dirty as well and learn how to do implementation.</p>
+<p>There is indeed no single textbook for this course, and we use various resources in the course. Most of resources are research papers, which are included in the reading list below and completed through the semester. The following textbooks have however covered some key notions and related topics.</p>
+
+<ul>
+  <li><a href="https://www.bishopbook.com/">[BB] Bishop, Christopher M., and Hugh Bishop. <em>Deep Learning: Foundations and Concepts.</em> Springer Nature, 2023.</a></li>
+  <li><a href="https://probml.github.io/pml-book/book2.html">[M] Murphy, Kevin P. <em>Probabilistic Machine Learning: Advanced Topics.</em> MIT Press, 2023.</a></li>
+  <li><a href="https://www.deeplearningbook.org/">[GYC] Goodfellow, Ian, et al. <em>Deep Learning.</em> MIT Press, 2016.</a></li>
+</ul>
+
+<p>With respect to the first part of the course, the following book provides some good read:</p>
+
+<ul>
+  <li><a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]Jurafsky, Dan, and James H. Martin. <em>Speech and Language Processing.</em> 3rd Edition, 2024.</a></li>
+</ul>
+
+<p>The following recent textbooks are also good resources for <strong>practicing hands-on skills.</strong> Note that we are <strong>not</strong> simply learning to implement only! We study the fundamentals that led to development of this framework, nowadays known as <strong>generative AI.</strong> Of course, we try to get our hands dirty as well and learn how to do implementation.</p>
 
 <ul>
   <li><a href="https://www.oreilly.com/library/view/hands-on-generative-ai/9781098149239/">Sanseviero, Omar, et al. <em>Hands-On Generative AI with Transformers and Diffusion Models.</em> O’Reilly Media, Inc., 2024.</a></li>
   <li><a href="https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/">Alammar, Jay, and Maarten Grootendorst. <em>Hands-on large language models: language understanding and generation.</em> O’Reilly Media, Inc., 2024.</a></li>
 </ul>
 
-<p>With respect to the first part of the course, the following book provides some good read:</p>
-
-<ul>
-  <li><a href="https://web.stanford.edu/~jurafsky/slp3/">Jurafsky, Dan, and James H. Martin. <em>Speech and Language Processing.</em> 3rd Edition, 2024.</a></li>
-</ul>
-
-<h2 id="course-materials-reading-list">Course Materials: Reading List</h2>
+<h2 id="reading-list">Reading List</h2>
 
 <p>This section will be completed gradually through the semseter. I will try to break down the essence of each item, so that you could go over them easily.</p>
 
-<h3 id="language-models">Language Models</h3>
-<p>You may review the idea of Seq2Seq learning and transformers in the following references:</p>
+<h3 id="review">Review</h3>
+<p>You may review the idea of Seq2Seq learning in the following references:</p>
 <ul>
-  <li><a href="https://pdfs.semanticscholar.org/bba8/a2c9b9121e7c78e91ea2a68630e77c0ad20f.pdf">[2010] SimpleLM</a>: Initial ideas on making a language model</li>
-  <li><a href="https://arxiv.org/abs/1308.0850">[2013] SeqGen</a>: Sequence generation via RNNs –<em>Old idea, but yet worth thinking about it!</em></li>
-  <li><a href="https://arxiv.org/abs/1409.3215v3">[2014] Seq2Seq</a>: How we can do sequence to sequence learning via NNs</li>
-  <li><a href="https://arxiv.org/abs/1706.03762">[2017] Attention</a>: Attention Is All You Need! <em>The revolutionary paper that made a great turn in sequence processing</em></li>
-  <li><a href="https://web.stanford.edu/~jurafsky/slp3/9.pdf">Transformers</a>: Chapter 9 of <em>Speech and Language Processing</em></li>
+  <li><a href="https://pdfs.semanticscholar.org/bba8/a2c9b9121e7c78e91ea2a68630e77c0ad20f.pdf">SimpleLM</a>: Initial ideas on making a language model</li>
+  <li><a href="https://arxiv.org/abs/1308.0850">SeqGen</a>: Sequence generation via RNNs –<em>Old idea, but yet worth thinking about it!</em></li>
+  <li><a href="https://arxiv.org/abs/1409.3215v3">Seq2Seq</a>: How we can do sequence to sequence learning via NNs</li>
 </ul>
+
+<p>You may review the idea of transformers in the following resources:</p>
+<ul>
+  <li><a href="https://arxiv.org/abs/1706.03762">Transformer Paper</a>: Paper <strong>Attention Is All You Need!</strong> published in 2017 that made a great turn in sequence processing</li>
+  <li><a href="https://web.stanford.edu/~jurafsky/slp3/9.pdf">Transformers</a>: Chapter 9 of <a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]</a></li>
+  <li><a href="https://www.bishopbook.com/">Transformers</a>: Chapter 12 of <a href="https://www.bishopbook.com/">[BB]</a> <strong>Section 12.1</strong></li>
+</ul>
+
+<h3 id="chapter-1-text-generation-and-language-models">Chapter 1: Text Generation and Language Models</h3>
+<h4 id="tokenization-and-embedding">Tokenization and Embedding</h4>
+<ul>
+  <li><a href="https://web.stanford.edu/~jurafsky/slp3/2.pdf">Tokenization</a>: Chapter 2 of <a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]</a></li>
+  <li>
+    <p><a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">Embedding</a>: Chapter 6 of <a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]</a></p>
+  </li>
+  <li><a href="http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM">Original BPE Algorithm</a>: Original BPE Algorithm proposed by Philip Gage in 1994</li>
+  <li><a href="https://arxiv.org/abs/1508.07909">BPE for Tokenization</a>: Paper <em>Neural machine translation of rare words with subword units</em> by <em>Rico Sennrich, Barry Haddow, and Alexandra Birch</em> presented in ACL 2016 that adapted BPE for NLP</li>
+  <li><a href="https://arxiv.org/abs/1808.06226">SentencePiece</a>: Paper <em>SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing</em> by <em>Taku Kudo and John Richardson</em> presented in EMNLP 2018 that introduces a language-independent tokenizer</li>
+  <li><a href="https://arxiv.org/abs/1609.08144">WordPiece</a>: Paper <em>Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</em> by <em>Yonghui Wu et al.</em> published in 2016 introducing WordPiece (used in BERT)</li>
+  <li><a href="https://arxiv.org/abs/2105.13626">ByT5</a>: Paper <em>ByT5: Towards a token-free future with pre-trained byte-to-byte models</em> by <em>Xue et al.</em> presented in ACL 2022 proposing ByT5</li>
+</ul>
+
+<h4 id="language-modelling">Language Modelling</h4>
+<ul>
+  <li><a href="https://www.bishopbook.com/">LMs</a>: Chapter 12 of <a href="https://www.bishopbook.com/">[BB]</a> <strong>Section 12.2</strong></li>
+  <li><a href="https://web.stanford.edu/~jurafsky/slp3/3.pdf">N-Gram LMs</a>: Chapter 3 of <em>Speech and Language Processing;</em> <strong>Section 3.1</strong> on N-gram LM</li>
+  <li><a href="https://www.bishopbook.com/">Maximum Likelihood</a>: Chapter 2 of <a href="https://www.bishopbook.com/">[BB]</a> <strong>Sections 12.1 – 12.3</strong></li>
+</ul>
+
+<h4 id="recurrent-lms">Recurrent LMs</h4>
+<ul>
+  <li><a href="https://web.stanford.edu/~jurafsky/slp3/8.pdf">Recurrent LMs</a>: Chapter 8 of <a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]</a></li>
+  <li><a href="https://arxiv.org/abs/1708.02182">LSTM LMs</a>: Paper <em>Regularizing and Optimizing LSTM Language Models</em> by <em>Stephen Merity, Nitish Shirish Keskar, and Richard Socher</em> published in ICLR 2018 enabling LSTMs to perform strongly on word-level language modeling</li>
+  <li><a href="https://arxiv.org/abs/1711.03953">High-Rank Recurrent LMs</a>: Paper <em>Breaking the Softmax Bottleneck: A High-Rank RNN Language Model</em> by <em>Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, and William W. Cohen</em> presented at ICLR 2018 proposing Mixture of Softmaxes (MoS) and achieving state-of-the-art results at the time</li>
+</ul>
+
+<h4 id="transformer-based-lms">Transformer-based LMs</h4>
+<ul>
+  <li><a href="https://www.bishopbook.com/">Transformer LMs</a>: Chapter 12 of <a href="https://www.bishopbook.com/">[BB]</a> <strong>Section 12.3</strong></li>
+  <li><a href="https://web.stanford.edu/~jurafsky/slp3/10.pdf">LLMs via Transformers</a>: Chapter 10 of <a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]</a></li>
+</ul>
+
+<h4 id="llms">LLMs</h4>
+<ul>
+  <li><a href="https://arxiv.org/abs/1810.04805">BERT</a>: Paper <em>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</em> by <em>Jacob Devlin et al.</em> presented at NAACL 2019 that introduced BERT
+<!-- * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237): Paper _XLNet: Generalized Autoregressive Pretraining for Language Understanding_ by _Zhilin Yang et al._ presented at NeurIPS 2019 that introduces XLNet --></li>
+  <li><a href="https://arxiv.org/abs/1907.11692">RoBERTa</a>: Paper <em>RoBERTa: A Robustly Optimized BERT Pretraining Approach</em> by <em>Yinhan Liu, et al.</em> (Facebook AI, 2019) that shows BERT’s performance can be significantly improved by more data, longer training, and removing next sentence prediction</li>
+  <li>
+    <p><a href="https://arxiv.org/abs/1910.10683">T5</a>: Paper <em>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</em> by <em>Colin Raffel et al.</em> (JMLR 2020) that reformulates all NLP tasks as text-to-text problems introducing the T5 model</p>
+  </li>
+  <li><a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">GPT-1</a>: Paper <em>Improving Language Understanding by Generative Pre-Training</em> by <em>Alec Radford et al.</em> (OpenAI, 2018) that introduced GPT-1 and revived the idea of pretraining transformers as LMs followed by supervised fine-tuning</li>
+  <li><a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">GPT-2</a>: Paper <em>Language Models are Unsupervised Multitask Learners</em> by <em>Alec Radford et al.</em> (OpenAI, 2019) that introduces GPT-2 with 1.5B parameter trained on web text</li>
+  <li><a href="https://arxiv.org/abs/2005.14165">GPT-3</a>: Paper <em>Language Models are Few-Shot Learners</em> by <em>Tom B. Brown et al.</em> (OpenAI, 2020) that introduces GPT-3, a 175B-parameter transformer LM</li>
+  <li><a href="https://arxiv.org/abs/2303.08774">GPT-4</a>: <em>GPT-4 Technical Report</em> by <em>OpenAI</em> (2023) that provides an overview of GPT-4’s capabilities</li>
+</ul>
+
 
   </article>
 
