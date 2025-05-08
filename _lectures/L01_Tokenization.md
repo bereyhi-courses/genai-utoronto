@@ -6,7 +6,7 @@ tldr: "LMs - Part 1"
 stat: lec
 # for lectures stat: lec
 description: We start with LMs and understand how we can feed a text into it by doing the so-called "Tokenization" and "Embedding". 
-videoID: PYVM7Ab9FXQ
+videoID: P7LGgmLU-8g
 hide_from_announcments: false
 ---
 **Lecture Notes:**
