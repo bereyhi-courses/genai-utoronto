@@ -1,3 +1,19 @@
+# schedule
+day1: Tuesdays
+time1: 6 - 8 PM
+loc1: <strong>BA1170</strong> - <em>Bahen Centre for Information Technology</em>
+
+day2: Tuesdays
+time2: 6 - 8 PM
+loc2: <strong>BA1170</strong> - <em>Bahen Centre for Information Technology</em>
+
+dayTut: TBA
+timeTut: TBA
+locTut: TBA
+
+start_date: May 6, 2025
+start_description: Please note that the lecture halls are different in Tuesdays and Thursdays.
+
 # Site settings
 course_name: Deep Generative Models
 course_description: "This course aims to build a good understanding on Generative Models, the state-of-the-art architectures and their applications. The course in designed in two major parts, where in the first part the basic idea of data generation is introduced, and some mathematical foundations are provided. In this respect, the course looks at <em>Large Language Models</em> as an initial generative model and discusses some advancement in this respect. The second part of the course gets into the three major approaches for designing a generative model: namely, <em>generative adversarial networks (GANs), variational autoencoders (VAEs), and diffusion models.</em> The course finally goes through some recent advancements in generative AI. To follow the contents of this course, the students need to have a good understanding of machine learning models, particularly neural networks. Knowledge in more advanced topics like unsupervised learning methods, or newer architectures will be given in the course throughout the semester. A primary course in Machine Learning has hence been considered as the prerequisite. It is expected that the second part of the course dominates, i.e., approximately half of lectures will be on deep generative models."

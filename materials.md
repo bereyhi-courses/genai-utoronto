@@ -10,7 +10,8 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file
 
 ### Chapter 1: Text Generation via Language Models
-* [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Fundamentals of Language Modeling
+* [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Fundamentals of Language Modeling - Primary LMs
+* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Transform-based Models
 
 ## Book
 
