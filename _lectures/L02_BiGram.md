@@ -5,7 +5,7 @@ title: "Lecture 2: Language Distribution and Bi-Gram Model"
 tldr: "LMs - Part 2"
 stat: lec
 # for lectures stat: lec
-description: In this lecture, we define the LMs concretely via the notion of _language distribution._ We then build a simple Bi-gram LM.
+description: In this lecture, we define the LMs concretely via the notion of language distribution. We then build a simple Bi-gram LM.
 videoID: Gy34u_0ARKc
 hide_from_announcments: false
 ---
