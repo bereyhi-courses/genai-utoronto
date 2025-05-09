@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-05-08T19:00:00-4:00
 title: "Lecture 3: Recurrent LMs"
-tldr: "LMs - Part 3:"
+tldr: "LMs - Part 3"
 stat: lec
 # for lectures stat: lec
 description: This lecture explains how we can build a LM using RNNs. We take a look at LSTM-based LMs.
