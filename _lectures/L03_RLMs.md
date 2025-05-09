@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-05-06T18:00:00-4:00
+date: 2025-05-08T19:00:00-4:00
 title: "Lecture 3: Recurrent LMs"
 tldr: "LMs - Part 3:"
 stat: lec
