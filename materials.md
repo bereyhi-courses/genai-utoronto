@@ -11,7 +11,8 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ### Chapter 1: Text Generation via Language Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Fundamentals of Language Modeling - Primary LMs
-* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Transform-based Models
+* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Transformer-based LMs
+* [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Large Language Models
 
 ## Book
 
@@ -73,7 +74,7 @@ You may review the idea of transformers in the following resources:
 * [High-Rank Recurrent LMs](https://arxiv.org/abs/1711.03953): Paper _Breaking the Softmax Bottleneck: A High-Rank RNN Language Model_ by _Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, and William W. Cohen_ presented at ICLR 2018 proposing Mixture of Softmaxes (MoS) and achieving state-of-the-art results at the time
 
 
-#### Transformer-based LMs
+#### Transformer-based LMs and LLMs
 * [Transformer LMs](https://www.bishopbook.com/): Chapter 12 of [[BB]](https://www.bishopbook.com/) __Section 12.3__
 * [LLMs via Transformers](https://web.stanford.edu/~jurafsky/slp3/10.pdf): Chapter 10 of [[JM]](https://web.stanford.edu/~jurafsky/slp3/)
 
@@ -91,25 +92,26 @@ You may review the idea of transformers in the following resources:
 * [T5](https://arxiv.org/abs/1910.10683): Paper _Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer_ by _Colin Raffel et al._ (JMLR 2020) that reformulates all NLP tasks as text-to-text problems introducing the T5 model
 
 #### Data for LLMs
-* [The Pile](https://arxiv.org/abs/2101.00027): Paper _The Pile: An 800GB Dataset of Diverse Text for Language Modeling_ by _Leo Gao et al._ presented in 2020 introducin dataset __The Pile__
+* [The Pile](https://arxiv.org/abs/2101.00027): Paper _The Pile: An 800GB Dataset of Diverse Text for Language Modeling_ by _Leo Gao et al._ presented in 2020 introductin dataset __The Pile__
 * [RACE](https://arxiv.org/abs/1704.04683): Paper _RACE: Large-scale Reading Comprehension Dataset from Examinations_ by _Guokun Lai et al._ presented at EMNLP in 2017 introducing a large-scale dataset of English reading comprehension questions from real-world exams
-* [BookCorpus](https://arxiv.org/abs/1511.06398): Paper _Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books_ by _Yukun Zhu et al._ presented at ICCV in 2015 introducing the dataset BookCorpus. It was used to pre-train GPT-1 and BERT; nevertheless, it turned out that the dataset was collected wothout authors consent; see [the Wikipedia article](https://en.wikipedia.org/wiki/BookCorpus). It was hence replaced later with BookCorpusOpen
-* [Documentation Debt](https://arxiv.org/abs/2105.05241): Paper _Addressing "Documentation Debt" in Machine Learning Research: A Retrospective Datasheet for BookCorpus_ by _Jack Bandy and Nicholas Vincent_ published in 2021 discussing the efficiency and legality of data collection by loohing into [BookCorpus](https://arxiv.org/abs/1511.06398)
+* [BookCorpus](https://arxiv.org/abs/1511.06398): Paper _Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books_ by _Yukun Zhu et al._ presented at ICCV in 2015 introducing the dataset BookCorpus. It was used to pre-train GPT-1 and BERT; nevertheless, it turned out that the dataset was collected without authors consent; see [the Wikipedia article](https://en.wikipedia.org/wiki/BookCorpus). It was hence replaced later with BookCorpusOpen
+* [Documentation Debt](https://arxiv.org/abs/2105.05241): Paper _Addressing "Documentation Debt" in Machine Learning Research: A Retrospective Datasheet for BookCorpus_ by _Jack Bandy and Nicholas Vincent_ published in 2021 discussing the efficiency and legality of data collection by looking into [BookCorpus](https://arxiv.org/abs/1511.06398)
 
 #### Earlier Work on Pretraining
-* [SSL](https://arxiv.org/abs/1511.01432): Paper _Semi-supervised Sequence Learning_ by _Andrew M. Dai et al._ published in 2015 that explors using unsupervised pretraining followed by supervised fine-tuning; this was an early solid work advocating __pre-training__ idea for LMs
+* [SSL](https://arxiv.org/abs/1511.01432): Paper _Semi-supervised Sequence Learning_ by _Andrew M. Dai et al._ published in 2015 that explores using unsupervised pretraining followed by supervised fine-tuning; this was an early solid work advocating __pre-training__ idea for LMs
 * [ULMFiT](https://arxiv.org/abs/1801.06146): Paper _Universal Language Model Fine-tuning for Text Classification_ by _Jeremy Howard et al._ presented at ACL in 2018 introducing ULMFiT that uses pre-trained LMs with task-specific fine-tuning
 
 #### Fine-tuning
+* [LMs](https://www.bishopbook.com/): Chapter 12 of [[BB]](https://www.bishopbook.com/) __Section 12.3.5__
 * [LoRA](https://arxiv.org/abs/2106.09685): Paper _LoRA: Low-Rank Adaptation of Large Language Models_ by _Edward J. Hu et al._ presented at ICLR in 2022 introducing LoRA
 * [ReFT](https://arxiv.org/abs/2404.03592): Paper _ReFT: Representation Finetuning for Language Models_ by _Z. Wu et al._ presented at NeurIPS in 2024 proposing an alternative fine-tuning algorithm
 
 #### Prompt Design
 * [Zero-Shot](https://arxiv.org/abs/1707.00600): Paper _Zero-shot Learning — A Comprehensive Evaluation of the Good, the Bad and the Ugly_ by _Yongqin Xian et al._ at IEEE Tran. PAMI in 2018 presenting an overview on zero-shot learning
-<!-- * [In-Context Learning](https://arxiv.org/abs/2305.13295): Paper _How Does In-Context Learning Help Prompt Tuning?_ by _Ruiqi Zhong et al._ published in 2023 studing interaction between in-context learning and prompt tuning -->
 * [Chain-of-Thought](https://arxiv.org/abs/2201.11903): Paper _Chain-of-Thought Prompting Elicits Reasoning in Large Language Models_ by _Jason Wei et al._ presented at NeurIPS in 2022 introducing __chain-of-thought__ prompting
 * [Prefix-Tuning](https://arxiv.org/abs/2101.00190): Paper _Prefix-Tuning: Optimizing Continuous Prompts for Generation_ by _Xiang Lisa Li et al._ presented at ACL in 2021 proposing prefix-tuning approach for prompting
 * [Prompt-Tuning](https://arxiv.org/abs/2104.08691): Paper _The Power of Scale for Parameter-Efficient Prompt Tuning_ by _B. Lester et al._ presented at EMNLP in 2021 proposing the prompt tuning idea, i.e., learning to prompt
+* [Zero-Shot LLMs](https://arxiv.org/abs/2205.11916): Paper _Large Language Models are Zero-Shot Reasoners_ by _T. Kojima et al._ presented at NeurIPS in 2022 studying zero-shot learning with LLMs
 * [Prompt Engineering is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead): Article _AI Prompt Engineering Is Dead: Long Live AI Prompt Engineering_ by _Dina Genkina_ published in _IEEE Spectrum_ in 2024
 
 #### Foundation Models
