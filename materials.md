@@ -113,4 +113,4 @@ You may review the idea of transformers in the following resources:
 * [Prompt Engineering is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead): Article _AI Prompt Engineering Is Dead: Long Live AI Prompt Engineering_ by _Dina Genkina_ published in _IEEE Spectrum_ in 2024
 
 #### Foundation Models
-[CRFM](https://crfm.stanford.edu/) Center for Research on Foundation Models who coined the term _Foundation Model_
+* [CRFM](https://crfm.stanford.edu/) Center for Research on Foundation Models who coined the term _Foundation Model_
