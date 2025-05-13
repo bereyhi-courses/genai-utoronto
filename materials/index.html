@@ -180,8 +180,15 @@
   </li>
   <li><a href="http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM">Original BPE Algorithm</a>: Original BPE Algorithm proposed by Philip Gage in 1994</li>
   <li><a href="https://arxiv.org/abs/1508.07909">BPE for Tokenization</a>: Paper <em>Neural machine translation of rare words with subword units</em> by <em>Rico Sennrich, Barry Haddow, and Alexandra Birch</em> presented in ACL 2016 that adapted BPE for NLP</li>
-  <li><a href="https://arxiv.org/abs/1808.06226">SentencePiece</a>: Paper <em>SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing</em> by <em>Taku Kudo and John Richardson</em> presented in EMNLP 2018 that introduces a language-independent tokenizer</li>
+</ul>
+
+<h4 id="other-embedding-approaches">Other Embedding Approaches</h4>
+<ul>
+  <li><a href="https://arxiv.org/abs/1301.3781">Word2Vec</a> Paper <em>Efficient Estimation of Word Representations in Vector Space</em> by <em>Mikolov et al.</em> published in 2013 introducing Word2Vec</li>
+  <li><a href="https://nlp.stanford.edu/pubs/glove.pdf">GloVe</a> Paper <em>GloVe: Global Vectors for Word Representation</em> by <em>Pennington</em> et al._ published in 2014 introducing GloVe</li>
   <li><a href="https://arxiv.org/abs/1609.08144">WordPiece</a>: Paper <em>Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</em> by <em>Yonghui Wu et al.</em> published in 2016 introducing WordPiece (used in BERT)</li>
+  <li><a href="https://arxiv.org/abs/1808.06226">SentencePiece</a>: Paper <em>SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing</em> by <em>Taku Kudo and John Richardson</em> presented in EMNLP 2018 that introduces a language-independent tokenizer</li>
+  <li><a href="https://arxiv.org/abs/1802.05365">ELMo</a> Paper <em>Deep contextualized word representations</em> by <em>Peters et al.</em> introducing ELMo <strong>a context-sensitive embedding</strong></li>
   <li><a href="https://arxiv.org/abs/2105.13626">ByT5</a>: Paper <em>ByT5: Towards a token-free future with pre-trained byte-to-byte models</em> by <em>Xue et al.</em> presented in ACL 2022 proposing ByT5</li>
 </ul>
 
@@ -205,20 +212,54 @@
   <li><a href="https://web.stanford.edu/~jurafsky/slp3/10.pdf">LLMs via Transformers</a>: Chapter 10 of <a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]</a></li>
 </ul>
 
-<h4 id="llms">LLMs</h4>
+<h4 id="gpts">GPTs</h4>
 <ul>
-  <li><a href="https://arxiv.org/abs/1810.04805">BERT</a>: Paper <em>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</em> by <em>Jacob Devlin et al.</em> presented at NAACL 2019 that introduced BERT
-<!-- * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237): Paper _XLNet: Generalized Autoregressive Pretraining for Language Understanding_ by _Zhilin Yang et al._ presented at NeurIPS 2019 that introduces XLNet --></li>
-  <li><a href="https://arxiv.org/abs/1907.11692">RoBERTa</a>: Paper <em>RoBERTa: A Robustly Optimized BERT Pretraining Approach</em> by <em>Yinhan Liu, et al.</em> (Facebook AI, 2019) that shows BERT’s performance can be significantly improved by more data, longer training, and removing next sentence prediction</li>
-  <li>
-    <p><a href="https://arxiv.org/abs/1910.10683">T5</a>: Paper <em>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</em> by <em>Colin Raffel et al.</em> (JMLR 2020) that reformulates all NLP tasks as text-to-text problems introducing the T5 model</p>
-  </li>
   <li><a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">GPT-1</a>: Paper <em>Improving Language Understanding by Generative Pre-Training</em> by <em>Alec Radford et al.</em> (OpenAI, 2018) that introduced GPT-1 and revived the idea of pretraining transformers as LMs followed by supervised fine-tuning</li>
   <li><a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">GPT-2</a>: Paper <em>Language Models are Unsupervised Multitask Learners</em> by <em>Alec Radford et al.</em> (OpenAI, 2019) that introduces GPT-2 with 1.5B parameter trained on web text</li>
   <li><a href="https://arxiv.org/abs/2005.14165">GPT-3</a>: Paper <em>Language Models are Few-Shot Learners</em> by <em>Tom B. Brown et al.</em> (OpenAI, 2020) that introduces GPT-3, a 175B-parameter transformer LM</li>
   <li><a href="https://arxiv.org/abs/2303.08774">GPT-4</a>: <em>GPT-4 Technical Report</em> by <em>OpenAI</em> (2023) that provides an overview of GPT-4’s capabilities</li>
 </ul>
 
+<h4 id="other-llms">Other LLMs</h4>
+<ul>
+  <li><a href="https://arxiv.org/abs/1810.04805">BERT</a>: Paper <em>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</em> by <em>Jacob Devlin et al.</em> presented at NAACL 2019 that introduced BERT
+<!-- * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237): Paper _XLNet: Generalized Autoregressive Pretraining for Language Understanding_ by _Zhilin Yang et al._ presented at NeurIPS 2019 that introduces XLNet --></li>
+  <li><a href="https://arxiv.org/abs/1907.11692">RoBERTa</a>: Paper <em>RoBERTa: A Robustly Optimized BERT Pretraining Approach</em> by <em>Yinhan Liu, et al.</em> (Facebook AI, 2019) that shows BERT’s performance can be significantly improved by more data, longer training, and removing next sentence prediction</li>
+  <li><a href="https://arxiv.org/abs/1910.10683">T5</a>: Paper <em>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</em> by <em>Colin Raffel et al.</em> (JMLR 2020) that reformulates all NLP tasks as text-to-text problems introducing the T5 model</li>
+</ul>
+
+<h4 id="data-for-llms">Data for LLMs</h4>
+<ul>
+  <li><a href="https://arxiv.org/abs/2101.00027">The Pile</a>: Paper <em>The Pile: An 800GB Dataset of Diverse Text for Language Modeling</em> by <em>Leo Gao et al.</em> presented in 2020 introducin dataset <strong>The Pile</strong></li>
+  <li><a href="https://arxiv.org/abs/1704.04683">RACE</a>: Paper <em>RACE: Large-scale Reading Comprehension Dataset from Examinations</em> by <em>Guokun Lai et al.</em> presented at EMNLP in 2017 introducing a large-scale dataset of English reading comprehension questions from real-world exams</li>
+  <li><a href="https://arxiv.org/abs/1511.06398">BookCorpus</a>: Paper <em>Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books</em> by <em>Yukun Zhu et al.</em> presented at ICCV in 2015 introducing the dataset BookCorpus. It was used to pre-train GPT-1 and BERT; nevertheless, it turned out that the dataset was collected wothout authors consent; see <a href="https://en.wikipedia.org/wiki/BookCorpus">the Wikipedia article</a>. It was hence replaced later with BookCorpusOpen</li>
+  <li><a href="https://arxiv.org/abs/2105.05241">Documentation Debt</a>: Paper <em>Addressing “Documentation Debt” in Machine Learning Research: A Retrospective Datasheet for BookCorpus</em> by <em>Jack Bandy and Nicholas Vincent</em> published in 2021 discussing the efficiency and legality of data collection by loohing into <a href="https://arxiv.org/abs/1511.06398">BookCorpus</a></li>
+</ul>
+
+<h4 id="earlier-work-on-pretraining">Earlier Work on Pretraining</h4>
+<ul>
+  <li><a href="https://arxiv.org/abs/1511.01432">SSL</a>: Paper <em>Semi-supervised Sequence Learning</em> by <em>Andrew M. Dai et al.</em> published in 2015 that explors using unsupervised pretraining followed by supervised fine-tuning; this was an early solid work advocating <strong>pre-training</strong> idea for LMs</li>
+  <li><a href="https://arxiv.org/abs/1801.06146">ULMFiT</a>: Paper <em>Universal Language Model Fine-tuning for Text Classification</em> by <em>Jeremy Howard et al.</em> presented at ACL in 2018 introducing ULMFiT that uses pre-trained LMs with task-specific fine-tuning</li>
+</ul>
+
+<h4 id="fine-tuning">Fine-tuning</h4>
+<ul>
+  <li><a href="https://arxiv.org/abs/2106.09685">LoRA</a>: Paper <em>LoRA: Low-Rank Adaptation of Large Language Models</em> by <em>Edward J. Hu et al.</em> presented at ICLR in 2022 introducing LoRA</li>
+  <li><a href="https://arxiv.org/abs/2404.03592">ReFT</a>: Paper <em>ReFT: Representation Finetuning for Language Models</em> by <em>Z. Wu et al.</em> presented at NeurIPS in 2024 proposing an alternative fine-tuning algorithm</li>
+</ul>
+
+<h4 id="prompt-design">Prompt Design</h4>
+<ul>
+  <li><a href="https://arxiv.org/abs/1707.00600">Zero-Shot</a>: Paper <em>Zero-shot Learning — A Comprehensive Evaluation of the Good, the Bad and the Ugly</em> by <em>Yongqin Xian et al.</em> at IEEE Tran. PAMI in 2018 presenting an overview on zero-shot learning
+<!-- * [In-Context Learning](https://arxiv.org/abs/2305.13295): Paper _How Does In-Context Learning Help Prompt Tuning?_ by _Ruiqi Zhong et al._ published in 2023 studing interaction between in-context learning and prompt tuning --></li>
+  <li><a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought</a>: Paper <em>Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</em> by <em>Jason Wei et al.</em> presented at NeurIPS in 2022 introducing <strong>chain-of-thought</strong> prompting</li>
+  <li><a href="https://arxiv.org/abs/2101.00190">Prefix-Tuning</a>: Paper <em>Prefix-Tuning: Optimizing Continuous Prompts for Generation</em> by <em>Xiang Lisa Li et al.</em> presented at ACL in 2021 proposing prefix-tuning approach for prompting</li>
+  <li><a href="https://arxiv.org/abs/2104.08691">Prompt-Tuning</a>: Paper <em>The Power of Scale for Parameter-Efficient Prompt Tuning</em> by <em>B. Lester et al.</em> presented at EMNLP in 2021 proposing the prompt tuning idea, i.e., learning to prompt</li>
+  <li><a href="https://spectrum.ieee.org/prompt-engineering-is-dead">Prompt Engineering is Dead</a>: Article <em>AI Prompt Engineering Is Dead: Long Live AI Prompt Engineering</em> by <em>Dina Genkina</em> published in <em>IEEE Spectrum</em> in 2024</li>
+</ul>
+
+<h4 id="foundation-models">Foundation Models</h4>
+<p><a href="https://crfm.stanford.edu/">CRFM</a> Center for Research on Foundation Models who coined the term <em>Foundation Model</em></p>
 
   </article>
 
