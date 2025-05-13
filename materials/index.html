@@ -126,7 +126,8 @@
 <h3 id="chapter-1-text-generation-via-language-models">Chapter 1: Text Generation via Language Models</h3>
 <ul>
   <li><a href="/genai-utoronto/assets/Notes/CH1/CH1_Sec1.pdf">Section 1</a>: Fundamentals of Language Modeling - Primary LMs</li>
-  <li><a href="/genai-utoronto/assets/Notes/CH1/CH1_Sec2.pdf">Section 2</a>: Transform-based Models</li>
+  <li><a href="/genai-utoronto/assets/Notes/CH1/CH1_Sec2.pdf">Section 2</a>: Transformer-based LMs</li>
+  <li><a href="/genai-utoronto/assets/Notes/CH1/CH1_Sec3.pdf">Section 3</a>: Large Language Models</li>
 </ul>
 
 <h2 id="book">Book</h2>
@@ -206,7 +207,7 @@
   <li><a href="https://arxiv.org/abs/1711.03953">High-Rank Recurrent LMs</a>: Paper <em>Breaking the Softmax Bottleneck: A High-Rank RNN Language Model</em> by <em>Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, and William W. Cohen</em> presented at ICLR 2018 proposing Mixture of Softmaxes (MoS) and achieving state-of-the-art results at the time</li>
 </ul>
 
-<h4 id="transformer-based-lms">Transformer-based LMs</h4>
+<h4 id="transformer-based-lms-and-llms">Transformer-based LMs and LLMs</h4>
 <ul>
   <li><a href="https://www.bishopbook.com/">Transformer LMs</a>: Chapter 12 of <a href="https://www.bishopbook.com/">[BB]</a> <strong>Section 12.3</strong></li>
   <li><a href="https://web.stanford.edu/~jurafsky/slp3/10.pdf">LLMs via Transformers</a>: Chapter 10 of <a href="https://web.stanford.edu/~jurafsky/slp3/">[JM]</a></li>
@@ -230,31 +231,32 @@
 
 <h4 id="data-for-llms">Data for LLMs</h4>
 <ul>
-  <li><a href="https://arxiv.org/abs/2101.00027">The Pile</a>: Paper <em>The Pile: An 800GB Dataset of Diverse Text for Language Modeling</em> by <em>Leo Gao et al.</em> presented in 2020 introducin dataset <strong>The Pile</strong></li>
+  <li><a href="https://arxiv.org/abs/2101.00027">The Pile</a>: Paper <em>The Pile: An 800GB Dataset of Diverse Text for Language Modeling</em> by <em>Leo Gao et al.</em> presented in 2020 introductin dataset <strong>The Pile</strong></li>
   <li><a href="https://arxiv.org/abs/1704.04683">RACE</a>: Paper <em>RACE: Large-scale Reading Comprehension Dataset from Examinations</em> by <em>Guokun Lai et al.</em> presented at EMNLP in 2017 introducing a large-scale dataset of English reading comprehension questions from real-world exams</li>
-  <li><a href="https://arxiv.org/abs/1511.06398">BookCorpus</a>: Paper <em>Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books</em> by <em>Yukun Zhu et al.</em> presented at ICCV in 2015 introducing the dataset BookCorpus. It was used to pre-train GPT-1 and BERT; nevertheless, it turned out that the dataset was collected wothout authors consent; see <a href="https://en.wikipedia.org/wiki/BookCorpus">the Wikipedia article</a>. It was hence replaced later with BookCorpusOpen</li>
-  <li><a href="https://arxiv.org/abs/2105.05241">Documentation Debt</a>: Paper <em>Addressing “Documentation Debt” in Machine Learning Research: A Retrospective Datasheet for BookCorpus</em> by <em>Jack Bandy and Nicholas Vincent</em> published in 2021 discussing the efficiency and legality of data collection by loohing into <a href="https://arxiv.org/abs/1511.06398">BookCorpus</a></li>
+  <li><a href="https://arxiv.org/abs/1511.06398">BookCorpus</a>: Paper <em>Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books</em> by <em>Yukun Zhu et al.</em> presented at ICCV in 2015 introducing the dataset BookCorpus. It was used to pre-train GPT-1 and BERT; nevertheless, it turned out that the dataset was collected without authors consent; see <a href="https://en.wikipedia.org/wiki/BookCorpus">the Wikipedia article</a>. It was hence replaced later with BookCorpusOpen</li>
+  <li><a href="https://arxiv.org/abs/2105.05241">Documentation Debt</a>: Paper <em>Addressing “Documentation Debt” in Machine Learning Research: A Retrospective Datasheet for BookCorpus</em> by <em>Jack Bandy and Nicholas Vincent</em> published in 2021 discussing the efficiency and legality of data collection by looking into <a href="https://arxiv.org/abs/1511.06398">BookCorpus</a></li>
 </ul>
 
 <h4 id="earlier-work-on-pretraining">Earlier Work on Pretraining</h4>
 <ul>
-  <li><a href="https://arxiv.org/abs/1511.01432">SSL</a>: Paper <em>Semi-supervised Sequence Learning</em> by <em>Andrew M. Dai et al.</em> published in 2015 that explors using unsupervised pretraining followed by supervised fine-tuning; this was an early solid work advocating <strong>pre-training</strong> idea for LMs</li>
+  <li><a href="https://arxiv.org/abs/1511.01432">SSL</a>: Paper <em>Semi-supervised Sequence Learning</em> by <em>Andrew M. Dai et al.</em> published in 2015 that explores using unsupervised pretraining followed by supervised fine-tuning; this was an early solid work advocating <strong>pre-training</strong> idea for LMs</li>
   <li><a href="https://arxiv.org/abs/1801.06146">ULMFiT</a>: Paper <em>Universal Language Model Fine-tuning for Text Classification</em> by <em>Jeremy Howard et al.</em> presented at ACL in 2018 introducing ULMFiT that uses pre-trained LMs with task-specific fine-tuning</li>
 </ul>
 
 <h4 id="fine-tuning">Fine-tuning</h4>
 <ul>
+  <li><a href="https://www.bishopbook.com/">LMs</a>: Chapter 12 of <a href="https://www.bishopbook.com/">[BB]</a> <strong>Section 12.3.5</strong></li>
   <li><a href="https://arxiv.org/abs/2106.09685">LoRA</a>: Paper <em>LoRA: Low-Rank Adaptation of Large Language Models</em> by <em>Edward J. Hu et al.</em> presented at ICLR in 2022 introducing LoRA</li>
   <li><a href="https://arxiv.org/abs/2404.03592">ReFT</a>: Paper <em>ReFT: Representation Finetuning for Language Models</em> by <em>Z. Wu et al.</em> presented at NeurIPS in 2024 proposing an alternative fine-tuning algorithm</li>
 </ul>
 
 <h4 id="prompt-design">Prompt Design</h4>
 <ul>
-  <li><a href="https://arxiv.org/abs/1707.00600">Zero-Shot</a>: Paper <em>Zero-shot Learning — A Comprehensive Evaluation of the Good, the Bad and the Ugly</em> by <em>Yongqin Xian et al.</em> at IEEE Tran. PAMI in 2018 presenting an overview on zero-shot learning
-<!-- * [In-Context Learning](https://arxiv.org/abs/2305.13295): Paper _How Does In-Context Learning Help Prompt Tuning?_ by _Ruiqi Zhong et al._ published in 2023 studing interaction between in-context learning and prompt tuning --></li>
+  <li><a href="https://arxiv.org/abs/1707.00600">Zero-Shot</a>: Paper <em>Zero-shot Learning — A Comprehensive Evaluation of the Good, the Bad and the Ugly</em> by <em>Yongqin Xian et al.</em> at IEEE Tran. PAMI in 2018 presenting an overview on zero-shot learning</li>
   <li><a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought</a>: Paper <em>Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</em> by <em>Jason Wei et al.</em> presented at NeurIPS in 2022 introducing <strong>chain-of-thought</strong> prompting</li>
   <li><a href="https://arxiv.org/abs/2101.00190">Prefix-Tuning</a>: Paper <em>Prefix-Tuning: Optimizing Continuous Prompts for Generation</em> by <em>Xiang Lisa Li et al.</em> presented at ACL in 2021 proposing prefix-tuning approach for prompting</li>
   <li><a href="https://arxiv.org/abs/2104.08691">Prompt-Tuning</a>: Paper <em>The Power of Scale for Parameter-Efficient Prompt Tuning</em> by <em>B. Lester et al.</em> presented at EMNLP in 2021 proposing the prompt tuning idea, i.e., learning to prompt</li>
+  <li><a href="https://arxiv.org/abs/2205.11916">Zero-Shot LLMs</a>: Paper <em>Large Language Models are Zero-Shot Reasoners</em> by <em>T. Kojima et al.</em> presented at NeurIPS in 2022 studying zero-shot learning with LLMs</li>
   <li><a href="https://spectrum.ieee.org/prompt-engineering-is-dead">Prompt Engineering is Dead</a>: Article <em>AI Prompt Engineering Is Dead: Long Live AI Prompt Engineering</em> by <em>Dina Genkina</em> published in <em>IEEE Spectrum</em> in 2024</li>
 </ul>
 
