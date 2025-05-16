@@ -14,7 +14,8 @@ locTut: <strong>BA1170</strong> - <em>Bahen Centre for Information Technology</e
 start_date: May 6, 2025
 start_description: Please note that the lecture halls are different in Tuesdays and Thursdays.
 
-office_hours: Wednesdays 12:00 - 1:00 PM, or by
+dayOffice: Wednesdays 
+timeOffice: 12:00 - 1:00 PM
 
 # Site settings
 course_name: Deep Generative Models
