@@ -45,7 +45,66 @@ The course project will be seriously started in the second half of the course. I
 </p>
 
 ## Project Topics
-Will be announced.
+
+### Category A: _Multimodal Generative Models_
+
+#### __Topic A-1: Text-to-Image Generation using Pretrained LMs and Generative Architectures__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryA/TopicA_1.pdf) 
+- __Objective:__ Design and implement a _multimodal_ generative model that takes text descriptions as input and generates corresponding images. For language processing, a pretrained LM, e.g., BERT or RoBERTa, is used. The designed multimodal model should integrate this pretrained LM into a generative architecture such as a VAE, GAN, or diffusion model.
+- __Supervisor:__ [Amir Hossein Mobasheri](mailto:amir.mobasheri@mail.utoronto.ca)
+
+#### __Topic A-2: Image-to-Text Generation using Pretrained Vision Models and LMs__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryA/TopicA_2.pdf) 
+- __Objective:__ Design and implement a _multimodal_ generative model that takes an image as input and generates a descriptive caption or sentence. A pretrained vision model, e.g., ResNet, ViT, or CLIP, is used to extract image features, which are then passed into a LM to generate coherent textual descriptions.
+- __Supervisor:__ [Likun Cai](mailto:likun.cai@mail.utoronto.ca)
+
+#### __Topic A-3: Learning Cross-Modal Embeddings for Image-Text Alignment__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryA/TopicA_3.pdf) 
+- __Objective:__ Build a model that learns a _shared embedding_ for text and image inputs. Given a text-image pair, the model should embed both modalities into a common space such that semantically aligned pairs are close together and misaligned pairs are distant. This is a foundational task for generative models and retrieval-based generation methods.
+- __Supervisor:__ [Amir Hossein Mobasheri](mailto:amir.mobasheri@mail.utoronto.ca)
+
+### Category B: _Applications of Generative Models_
+
+#### __Topic B-1: Educational Code Generation using LLMs with Self-Refinement__ 
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryB/TopicB_1.pdf) 
+- __Objective:__ Design a simple intelligent agent that takes algorithmic problem descriptions, e.g., from introductory programming course or Leetcode-style tasks, and generates _not only_ the corresponding code but also _an educational breakdown of the solution_. The agent should aim to provide human-readable explanations alongside correct and runnable code, and include a _self-refinement_ mechanism to debug and correct incorrect generations.
+- __Supervisor:__ [Mohammadreza Safavi](mailto:mohammadreza.safavi@mail.utoronto.ca)
+
+
+#### __Topic B-2: Generative Adversarial Imitation Learning with Transformer-Based Policy Net__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryB/TopicB_2.pdf) 
+- __Objective:__ Implement a modernized version of _generative adversarial imitation learning (GAIL)_, where the generator, i.e., the policy network, is modeled using a Transformer. The goal is to train the generator to imitate expert behavior in a simple reinforcement learning (RL) environment through adversarial training.
+- __Supervisor:__ [Mohammadreza Safavi](mailto:mohammadreza.safavi@mail.utoronto.ca)
+
+
+#### __Topic B-3: Sequence Modeling for Reinforcement Learning with Decision Transformers__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryB/TopicB_3.pdf) 
+- __Objective:__ Design and implement a Decision Transformer, a generative model that treats reinforcement learning (RL) as a sequence modeling task. The model should learn to predict the next action based on the historical trajectories and a desired return-to-go.
+- __Supervisor:__ [Amirhosein Rostami](mailto:amirhosein.rostami@mail.utoronto.ca)
+
+### Category C: _Tiny AI Products_
+
+#### __Topic C-1: Personalized Text-to-Speech using VAE or Diffusion Models__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryC/TopicC_1.pdf) 
+- __Objective:__ Design and implement a simplified text-to-speech (TTS) system that generates speech audio conditioned on speaker identity. The project should use a generative model, e.g., a VAE or diffusion-based, to synthesize speech features, which can then be converted into audio using available Vocoders. 
+- __Supervisor:__ [Amirhosein Rostami](mailto:amirhosein.rostami@mail.utoronto.ca)
+
+
+#### __Topic C-2: Tiny Diffusion Model with Alternative Core for Image Generation__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryC/TopicC_2.pdf) 
+- __Objective:__ Design and implement a _tiny diffusion model_ for low-resolution image generation, with a focus on architectural simplification, ablation analysis, and experimentation. Rather than using existing _denoising diffusion probabilistic models (DDPMs)_ implementations, students are expected to _build a minimal functional prototype from scratch_, inspired by the original DDPM paper and recent simplifications.
+- __Supervisor:__ [Likun Cai](mailto:likun.cai@mail.utoronto.ca)
+
+
+#### __Topic C-3: Text-guided Image Editing through Latent Modification in VAEs__
+- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryC/TopicC_3.pdf) 
+- __Objective:__ Design and implement an image editing pipeline that modifies visual content based on a given textual prompt. The goal is to build a lightweight but effective multimodal editing system that uses text embeddings to guide latent modifications in a VAE-based generative model.
+- __Supervisor:__ [Likun Cai](mailto:likun.cai@mail.utoronto.ca)
+
+### Category D: _Open-ended_
+- __Description:__ An open-ended project can be selected given that the project description is prepared similar to the standard course projects (see tha sample below). The project description should clearly specify the _objective, motivation, considered requirements and milestones._ You can submit your topic along with the description through Crowdmark.
+- [Sample Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryC/TopicC_1.pdf) 
+- __Supervisor:__ [Amirhosein Rostami](mailto:amirhosein.rostami@mail.utoronto.ca)
 
 ## Templates for Report and Presentation
 * [Report Template - LaTex]({{site.baseurl}}/assets/Project_Materials/Project_Report_Template.zip): Other templates are __not__ accepted! 
