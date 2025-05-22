@@ -17,6 +17,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 1: Data Generation Problem
 * [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Basic Definitions
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Generative and Discriminative Learning
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Generative Modeling
 
 
 ## Book
