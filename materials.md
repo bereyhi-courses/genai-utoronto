@@ -124,3 +124,15 @@ You may review the idea of transformers in the following resources:
 
 ### Chapter 2: Data Generation Problem
 #### Basic Definitions
+* [Probabilistic Model](https://www.bishopbook.com/): Chapter 2 of [[BB]](https://www.bishopbook.com/) __Sections 2.4 to 2.6__
+* [Statistics](https://probml.github.io/pml-book/book2.html): Chapter 3 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 3.1 to 3.3__
+* [Bayesian Statistics](https://www.deeplearningbook.org/): Chapter 5 of [[GYC]](https://www.deeplearningbook.org/) __Section 5.6__
+
+#### Generative and Discriminative Learning
+* [Discriminative and Generative Models](https://www.bishopbook.com/): Chapter 5 of [[BB]](https://www.bishopbook.com/)
+
+
+#### Generative Models
+* [Naive Bayes](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00465.x?casa_token=DH9SI9elEXQAAAAA%3AVgLUtFs8TJVMldMvLbOhXTuvkyubn3CDcSaE7xD9fe02YwcTwBik5fEpAY1SpcMvl0kJZuwHqrKbIA): Paper _Idiot's Bayes—Not So Stupid After All?_ by _D. Hand and K. Yu_ published at _Statistical Review_ in 2001 discussing the efficiency of Naive Bayes for classification
+* [Naive Bayes vs Linear Regression](https://proceedings.neurips.cc/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html): Paper _On Discriminative vs. Generative Classifiers: A Comparison of Logistic Regression and Naive Bayes_ by _A. Ng and M. Jordan_ presented at _NeurIPS_ in 2001 elaborating the data-efficiency efficiency of Naive Bayes and asymptotic superiority of Logistic Regression
+* [Generative Models -- Overview](https://probml.github.io/pml-book/book2.html): Chapter 20 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 20.1 to 20.3__
