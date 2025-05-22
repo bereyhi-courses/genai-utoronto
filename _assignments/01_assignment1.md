@@ -3,7 +3,7 @@ type: assignment
 date: 2025-05-20T15:00:00-4:00
 title: 'Assignment #1 - Language Modeling'
 # pdf: 
-attachment: https://app.crowdmark.com/student/assessments/assignment-1-language-modeling
+link: https://app.crowdmark.com/student/assessments/assignment-1-language-modeling
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
