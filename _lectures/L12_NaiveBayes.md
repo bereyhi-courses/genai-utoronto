@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-05-22T19:20:00-4:00
 title: "Lecture 12: Naive Bayes - Most Basic Generative Model"
-tldr: "Formulation - Part 1"
+tldr: "Formulation - Part 3"
 stat: lec
 # for lectures stat: lec
 description: This lecture investigates Naive Bayes, the most basic generative model we can think of. This model enables us understand the idea of generative modeling clearly.
