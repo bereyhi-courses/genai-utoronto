@@ -20,8 +20,8 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Generative Modeling
 
 ### Chapter 3: Data Generation by Explicit Distribution Learning
-* [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH3_Sec1.pdf): Distribution Learning
-* [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH3_Sec2.pdf): Autoregressive Models
+* [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Distribution Learning
+* [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Autoregressive Models
 
 ## Book
 
