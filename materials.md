@@ -26,8 +26,8 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
-* [Tutorial 1]({{site.baseurl}}/assets/Notes/Tutorials/Tutorial_1.pdf): PyTorch Overview, Batch Training, Embedding, and Tokenization, by __Amir Hossein Mobasheri__
-* [Tutorial 2]({{site.baseurl}}/assets/Notes/Tutorials/Tutorial_2.pdf): Transformers and Large Language Models, by __Amir Hossein Mobasheri__
+* [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.pdf): PyTorch Overview, Batch Training, Embedding, and Tokenization, by __Amir Hossein Mobasheri__
+* [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.pdf): Transformers and Large Language Models, by __Amir Hossein Mobasheri__
 
 ## Book
 
