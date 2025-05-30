@@ -141,3 +141,21 @@ You may review the idea of transformers in the following resources:
 * [Naive Bayes](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00465.x?casa_token=DH9SI9elEXQAAAAA%3AVgLUtFs8TJVMldMvLbOhXTuvkyubn3CDcSaE7xD9fe02YwcTwBik5fEpAY1SpcMvl0kJZuwHqrKbIA): Paper _Idiot's Bayes—Not So Stupid After All?_ by _D. Hand and K. Yu_ published at _Statistical Review_ in 2001 discussing the efficiency of Naive Bayes for classification
 * [Naive Bayes vs Linear Regression](https://proceedings.neurips.cc/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html): Paper _On Discriminative vs. Generative Classifiers: A Comparison of Logistic Regression and Naive Bayes_ by _A. Ng and M. Jordan_ presented at _NeurIPS_ in 2001 elaborating the data-efficiency efficiency of Naive Bayes and asymptotic superiority of Logistic Regression
 * [Generative Models -- Overview](https://probml.github.io/pml-book/book2.html): Chapter 20 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 20.1 to 20.3__
+
+### Chapter 3: Explicit Distribution Learning
+
+#### Sampling
+* [Sampling Overview](https://www.bishopbook.com/): Chapter 14 of [[BB]](https://www.bishopbook.com/)
+* [Sampling]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) The book _Pattern Recognition and Machine Learning_ by Christopher Bishop. Read __Chapter 11__ to know about how challenging _sampling from a distribution_ is
+* [Sampling Methods](https://www.deeplearningbook.org/): Chapter 17 of [[GYC]](https://www.deeplearningbook.org/) __Sections 17.1 and 17.2__
+
+#### Distribution Learning via MLE
+* [KL Divergence and MLE](https://probml.github.io/pml-book/book2.html): Chapter 5 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 5.1 to 5.2__
+* [MLE](https://www.deeplearningbook.org/): Chapter 5 of [[GYC]](https://www.deeplearningbook.org/) __Section 5.5__
+* [Maximum Likelihood Learning](http://www.inference.org.uk/itprnn/book.pdf) The book _Information Theory, Inference, and Learning Algorithms_ by David MacKay which discusses MLE for clustering in __Chapter 22__ 
+* [Evaluating Distribution Learning](https://probml.github.io/pml-book/book2.html): Chapter 20 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 20.4__
+
+#### Autoregressive Models
+* [Autoregressive Models](https://probml.github.io/pml-book/book2.html): Chapter 22 of [[M]](https://probml.github.io/pml-book/book2.html)
+* [PixelRNN and PixelCNN](https://arxiv.org/abs/1601.06759): Paper _Pixel Recurrent Neural Networks_ by _A. Oord et al._ presented at _ICMLR_ in 2016 proposing PixelRNN and PixelCNN
+* [ImageGPT](https://proceedings.mlr.press/v119/chen20s/chen20s.pdf): Paper _Generative Pretraining from Pixels_ by _M. Chen et al._ presented at _ICMLR_ in 2020 proposing ImageGPT
