@@ -151,7 +151,7 @@ You may review the idea of transformers in the following resources:
 
 #### Sampling
 * [Sampling Overview](https://www.bishopbook.com/): Chapter 14 of [[BB]](https://www.bishopbook.com/)
-* [Sampling]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) The book _Pattern Recognition and Machine Learning_ by Christopher Bishop. Read __Chapter 11__ to know about how challenging _sampling from a distribution_ is
+* [Sampling](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) The book _Pattern Recognition and Machine Learning_ by Christopher Bishop. Read __Chapter 11__ to know about how challenging _sampling from a distribution_ is
 * [Sampling Methods](https://www.deeplearningbook.org/): Chapter 17 of [[GYC]](https://www.deeplearningbook.org/) __Sections 17.1 and 17.2__
 
 #### Distribution Learning via MLE
@@ -163,4 +163,4 @@ You may review the idea of transformers in the following resources:
 #### Autoregressive Models
 * [Autoregressive Models](https://probml.github.io/pml-book/book2.html): Chapter 22 of [[M]](https://probml.github.io/pml-book/book2.html)
 * [PixelRNN and PixelCNN](https://arxiv.org/abs/1601.06759): Paper _Pixel Recurrent Neural Networks_ by _A. Oord et al._ presented at _ICMLR_ in 2016 proposing PixelRNN and PixelCNN
-* [ImageGPT](https://proceedings.mlr.press/v119/chen20s/chen20s.pdf): Paper _Generative Pretraining from Pixels_ by _M. Chen et al._ presented at _ICMLR_ in 2020 proposing ImageGPT
+* [ImageGPT](https://proceedings.mlr.press/v119/chen20s/chen20s.pdf): Paper _Generative Pretraining from Pixels_ by _M. Chen et al._ presented at _ICML_ in 2020 proposing ImageGPT

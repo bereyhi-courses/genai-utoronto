@@ -130,11 +130,25 @@
   <li><a href="/genai-utoronto/assets/Notes/CH1/CH1_Sec3.pdf">Section 3</a>: Large Language Models</li>
 </ul>
 
-<h3 id="chapter-1-data-generation-problem">Chapter 1: Data Generation Problem</h3>
+<h3 id="chapter-2-data-generation-problem">Chapter 2: Data Generation Problem</h3>
 <ul>
   <li><a href="/genai-utoronto/assets/Notes/CH2/CH2_Sec1.pdf">Section 1</a>: Basic Definitions</li>
   <li><a href="/genai-utoronto/assets/Notes/CH2/CH2_Sec2.pdf">Section 2</a>: Generative and Discriminative Learning</li>
   <li><a href="/genai-utoronto/assets/Notes/CH2/CH2_Sec3.pdf">Section 3</a>: Generative Modeling</li>
+</ul>
+
+<h3 id="chapter-3-data-generation-by-explicit-distribution-learning">Chapter 3: Data Generation by Explicit Distribution Learning</h3>
+<ul>
+  <li><a href="/genai-utoronto/assets/Notes/CH3/CH3_Sec1.pdf">Section 1</a>: Distribution Learning</li>
+  <li><a href="/genai-utoronto/assets/Notes/CH3/CH3_Sec2.pdf">Section 2</a>: Autoregressive Modeling</li>
+  <li><a href="/genai-utoronto/assets/Notes/CH3/CH3_Sec3.pdf">Section 3</a>: Computational Autoregressive Models</li>
+</ul>
+
+<h2 id="tutorial-notebooks">Tutorial Notebooks</h2>
+<p>The tutorial notebooks can be accessed below.</p>
+<ul>
+  <li><a href="/genai-utoronto/assets/Notes/Tutorials/Tutorial_1.pdf">Tutorial 1</a>: PyTorch Overview, Batch Training, Embedding, and Tokenization, by <strong>Amir Hossein Mobasheri</strong></li>
+  <li><a href="/genai-utoronto/assets/Notes/Tutorials/Tutorial_2.pdf">Tutorial 2</a>: Transformers and Large Language Models, by <strong>Amir Hossein Mobasheri</strong></li>
 </ul>
 
 <h2 id="book">Book</h2>
@@ -272,7 +286,7 @@
   <li><a href="https://crfm.stanford.edu/">CRFM</a> Center for Research on Foundation Models who coined the term <em>Foundation Model</em></li>
 </ul>
 
-<h3 id="chapter-2-data-generation-problem">Chapter 2: Data Generation Problem</h3>
+<h3 id="chapter-2-data-generation-problem-1">Chapter 2: Data Generation Problem</h3>
 <h4 id="basic-definitions">Basic Definitions</h4>
 <ul>
   <li><a href="https://www.bishopbook.com/">Probabilistic Model</a>: Chapter 2 of <a href="https://www.bishopbook.com/">[BB]</a> <strong>Sections 2.4 to 2.6</strong></li>
@@ -290,6 +304,30 @@
   <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00465.x?casa_token=DH9SI9elEXQAAAAA%3AVgLUtFs8TJVMldMvLbOhXTuvkyubn3CDcSaE7xD9fe02YwcTwBik5fEpAY1SpcMvl0kJZuwHqrKbIA">Naive Bayes</a>: Paper <em>Idiot’s Bayes—Not So Stupid After All?</em> by <em>D. Hand and K. Yu</em> published at <em>Statistical Review</em> in 2001 discussing the efficiency of Naive Bayes for classification</li>
   <li><a href="https://proceedings.neurips.cc/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html">Naive Bayes vs Linear Regression</a>: Paper <em>On Discriminative vs. Generative Classifiers: A Comparison of Logistic Regression and Naive Bayes</em> by <em>A. Ng and M. Jordan</em> presented at <em>NeurIPS</em> in 2001 elaborating the data-efficiency efficiency of Naive Bayes and asymptotic superiority of Logistic Regression</li>
   <li><a href="https://probml.github.io/pml-book/book2.html">Generative Models – Overview</a>: Chapter 20 of <a href="https://probml.github.io/pml-book/book2.html">[M]</a> <strong>Sections 20.1 to 20.3</strong></li>
+</ul>
+
+<h3 id="chapter-3-explicit-distribution-learning">Chapter 3: Explicit Distribution Learning</h3>
+
+<h4 id="sampling">Sampling</h4>
+<ul>
+  <li><a href="https://www.bishopbook.com/">Sampling Overview</a>: Chapter 14 of <a href="https://www.bishopbook.com/">[BB]</a></li>
+  <li><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Sampling</a> The book <em>Pattern Recognition and Machine Learning</em> by Christopher Bishop. Read <strong>Chapter 11</strong> to know about how challenging <em>sampling from a distribution</em> is</li>
+  <li><a href="https://www.deeplearningbook.org/">Sampling Methods</a>: Chapter 17 of <a href="https://www.deeplearningbook.org/">[GYC]</a> <strong>Sections 17.1 and 17.2</strong></li>
+</ul>
+
+<h4 id="distribution-learning-via-mle">Distribution Learning via MLE</h4>
+<ul>
+  <li><a href="https://probml.github.io/pml-book/book2.html">KL Divergence and MLE</a>: Chapter 5 of <a href="https://probml.github.io/pml-book/book2.html">[M]</a> <strong>Sections 5.1 to 5.2</strong></li>
+  <li><a href="https://www.deeplearningbook.org/">MLE</a>: Chapter 5 of <a href="https://www.deeplearningbook.org/">[GYC]</a> <strong>Section 5.5</strong></li>
+  <li><a href="http://www.inference.org.uk/itprnn/book.pdf">Maximum Likelihood Learning</a> The book <em>Information Theory, Inference, and Learning Algorithms</em> by David MacKay which discusses MLE for clustering in <strong>Chapter 22</strong></li>
+  <li><a href="https://probml.github.io/pml-book/book2.html">Evaluating Distribution Learning</a>: Chapter 20 of <a href="https://probml.github.io/pml-book/book2.html">[M]</a> <strong>Sections 20.4</strong></li>
+</ul>
+
+<h4 id="autoregressive-models">Autoregressive Models</h4>
+<ul>
+  <li><a href="https://probml.github.io/pml-book/book2.html">Autoregressive Models</a>: Chapter 22 of <a href="https://probml.github.io/pml-book/book2.html">[M]</a></li>
+  <li><a href="https://arxiv.org/abs/1601.06759">PixelRNN and PixelCNN</a>: Paper <em>Pixel Recurrent Neural Networks</em> by <em>A. Oord et al.</em> presented at <em>ICMLR</em> in 2016 proposing PixelRNN and PixelCNN</li>
+  <li><a href="https://proceedings.mlr.press/v119/chen20s/chen20s.pdf">ImageGPT</a>: Paper <em>Generative Pretraining from Pixels</em> by <em>M. Chen et al.</em> presented at <em>ICML</em> in 2020 proposing ImageGPT</li>
 </ul>
 
   </article>
