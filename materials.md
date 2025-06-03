@@ -23,6 +23,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Distribution Learning
 * [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Autoregressive Modeling
 * [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Computational Autoregressive Models
+* [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Energy-based Models
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
@@ -164,3 +165,5 @@ You may review the idea of transformers in the following resources:
 * [Autoregressive Models](https://probml.github.io/pml-book/book2.html): Chapter 22 of [[M]](https://probml.github.io/pml-book/book2.html)
 * [PixelRNN and PixelCNN](https://arxiv.org/abs/1601.06759): Paper _Pixel Recurrent Neural Networks_ by _A. Oord et al._ presented at _ICMLR_ in 2016 proposing PixelRNN and PixelCNN
 * [ImageGPT](https://proceedings.mlr.press/v119/chen20s/chen20s.pdf): Paper _Generative Pretraining from Pixels_ by _M. Chen et al._ presented at _ICML_ in 2020 proposing ImageGPT
+
+#### Energy-based Models
