@@ -14,6 +14,7 @@ hide_from_announcments: false
 <!-- - [AplDL Notes: Recurent NNs]({{ site.baseurl }}/assets/AplDL/AplDL_RNNs.pdf) -->
 
 **Further Reads:**
-* [KL Divergence and MLE](https://probml.github.io/pml-book/book2.html): Chapter 5 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 5.1 to 5.2__
-* [MLE](https://www.deeplearningbook.org/): Chapter 5 of [[GYC]](https://www.deeplearningbook.org/) __Section 5.5__
-* [Maximum Likelihood Learning](http://www.inference.org.uk/itprnn/book.pdf) The book _Information Theory, Inference, and Learning Algorithms_ by David MacKay which discusses MLE for clustering in __Chapter 22__ 
+* [Sampling Overview](https://www.bishopbook.com/): Chapter 14 of [[BB]](https://www.bishopbook.com/)
+* [Sampling](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) The book _Pattern Recognition and Machine Learning_ by Christopher Bishop. Read __Chapter 11__ to know about how challenging _sampling from a distribution_ is
+* [Sampling Methods](https://www.deeplearningbook.org/): Chapter 17 of [[GYC]](https://www.deeplearningbook.org/) __Sections 17.1 and 17.2__
+
