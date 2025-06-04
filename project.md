@@ -106,7 +106,8 @@ The course project will be seriously started in the second half of the course. I
 - [Sample Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryC/TopicC_1.pdf) 
 - __Supervisor:__ [Amirhosein Rostami](mailto:amirhosein.rostami@mail.utoronto.ca)
 
-## Templates for Report and Presentation
+## Templates for Proposal, Report and Presentation
+* [Proposal Template]({{site.baseurl}}/assets/Project_Materials/Peoposal_Template.zip) This is the template for _Category D: Open-ended._ You _can_ use other template as well
 * [Report Template - LaTex]({{site.baseurl}}/assets/Project_Materials/Project_Report_Template.zip): Other templates are __not__ accepted! 
 * [Prsentation Template]({{site.baseurl}}/assets/Project_Materials/Template_Slides_Presentation.zip) You _can_ use other template as well
 
