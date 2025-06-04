@@ -5,7 +5,7 @@ title: "Lecture 19: Energy Based Models - Boltzmann Distribution"
 tldr: "EBMs - Part 1"
 stat: lec
 # for lectures stat: lec
-description: This is the first lecture on EBMs: we talk about Boltzmann distribution and how we could use it to build a distribution model from an arbitrary computational model. We call such models EBMs.
+description: This is the first lecture on EBMs. We talk about Boltzmann distribution and how we could use it to build a distribution model from an arbitrary computational model. We call such models EBMs.
 videoID: WjxDgS8j6RY
 hide_from_announcments: false
 ---

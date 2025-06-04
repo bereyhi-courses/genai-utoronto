@@ -142,13 +142,14 @@
   <li><a href="/genai-utoronto/assets/Notes/CH3/CH3_Sec1.pdf">Section 1</a>: Distribution Learning</li>
   <li><a href="/genai-utoronto/assets/Notes/CH3/CH3_Sec2.pdf">Section 2</a>: Autoregressive Modeling</li>
   <li><a href="/genai-utoronto/assets/Notes/CH3/CH3_Sec3.pdf">Section 3</a>: Computational Autoregressive Models</li>
+  <li><a href="/genai-utoronto/assets/Notes/CH3/CH3_Sec4.pdf">Section 4</a>: Energy-based Models</li>
 </ul>
 
 <h2 id="tutorial-notebooks">Tutorial Notebooks</h2>
 <p>The tutorial notebooks can be accessed below.</p>
 <ul>
-  <li><a href="/genai-utoronto/assets/Notes/Tutorials/Tutorial_1.pdf">Tutorial 1</a>: PyTorch Overview, Batch Training, Embedding, and Tokenization, by <strong>Amir Hossein Mobasheri</strong></li>
-  <li><a href="/genai-utoronto/assets/Notes/Tutorials/Tutorial_2.pdf">Tutorial 2</a>: Transformers and Large Language Models, by <strong>Amir Hossein Mobasheri</strong></li>
+  <li><a href="/genai-utoronto/assets/Tutorials/Tutorial_1.ipynb">Tutorial 1</a>: PyTorch Overview, Batch Training, Embedding, and Tokenization, by <strong>Amir Hossein Mobasheri</strong></li>
+  <li><a href="/genai-utoronto/assets/Tutorials/Tutorial_2.ipynb">Tutorial 2</a>: Transformers and Large Language Models, by <strong>Amir Hossein Mobasheri</strong></li>
 </ul>
 
 <h2 id="book">Book</h2>
@@ -329,6 +330,29 @@
   <li><a href="https://arxiv.org/abs/1601.06759">PixelRNN and PixelCNN</a>: Paper <em>Pixel Recurrent Neural Networks</em> by <em>A. Oord et al.</em> presented at <em>ICMLR</em> in 2016 proposing PixelRNN and PixelCNN</li>
   <li><a href="https://proceedings.mlr.press/v119/chen20s/chen20s.pdf">ImageGPT</a>: Paper <em>Generative Pretraining from Pixels</em> by <em>M. Chen et al.</em> presented at <em>ICML</em> in 2020 proposing ImageGPT</li>
 </ul>
+
+<h4 id="energy-based-models">Energy-based Models</h4>
+<ul>
+  <li><a href="https://www.bishopbook.com/">EBMs</a>: Chapter 24 of <a href="https://probml.github.io/pml-book/book2.html">[M]</a></li>
+  <li><a href="https://www.deeplearningbook.org/">Partition Function and Normalizing</a>: Chapter 16 of <a href="https://www.deeplearningbook.org/">[GYC]</a> <strong>Section 16.2</strong></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/6796877">Universality of EBMs</a> Paper <em>Representational power of restricted Boltzmann machines and deep belief networks,</em> by <em>N. Le Roux and Y. Bengio</em> published at <em>Neural Computation</em> in 2008 elaborating the representational power of EBMs
+*<a href="https://www.researchgate.net/profile/Raia-Hadsell/publication/200744586_A_tutorial_on_energy-based_learning/links/5694442c08aeab58a9a2e650/A-tutorial-on-energy-based-learning.pdf">Tutorial on EBMs</a> Survey <em>A Tutorial on Energy-Based Learning,</em> by <em>Y. LeCun et al.</em> published in 2006</li>
+</ul>
+
+<h4 id="mcmc-sampling">MCMC Sampling</h4>
+<ul>
+  <li><a href="https://www.bishopbook.com/">MCMC Algorithms</a>: Chapter 12 of <a href="https://probml.github.io/pml-book/book2.html">[M]</a> <strong>Sections 12.3, 12.6 and 12.7</strong></li>
+  <li><a href="https://www.bishopbook.com/">Gibbs Sampling and Langevin</a>: Chapter 14 of <a href="https://www.bishopbook.com/">[BB]</a></li>
+</ul>
+
+<h4 id="training-ebms-by-mcmc-sampling">Training EBMs by MCMC Sampling</h4>
+<ul>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/6796877">Conservative Divergence</a> Paper <em>Training Products of Experts by Minimizing Contrastive Divergence,</em> by <em>G. Hinton</em> published at <em>Neural Computation</em> in 2002 proposing the idea of <em>Conservative Divergence</em></li>
+  <li><a href="https://arxiv.org/abs/1903.08689">Training by MCMC</a> Paper <em>Implicit Generation and Generalization in Energy-Based Models</em> published by <em>Y. Du and I. Mordatch</em> in <em>NeurIPS</em> 2019 discussing efficiency of MCMC algorithms for EBM training</li>
+  <li><a href="https://arxiv.org/abs/1903.08689">Improved CD</a> Paper <em>Improved Contrastive Divergence Training of Energy-Based Models</em> published by <em>Y. Du et al.</em> in <em>ICML</em> 2021 proposing an efficient training based on Hinton’s CD ideal</li>
+  <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/5973">Anatomy of MCMC</a> Paper <em>On the Anatomy of MCMC-Based Maximum Likelihood Learning of Energy-Based Models</em> published by <em>E. Nijkamp et al.</em> in <em>AAAI</em> 2020 looking on the stability of training by MCMC algorithms</li>
+</ul>
+
 
   </article>
 

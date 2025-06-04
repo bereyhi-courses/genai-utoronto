@@ -1,11 +1,11 @@
 ---
 type: lecture
 date: 2025-06-03T18:00:00-4:00
-title: "Lecture 18: Masked AR Models: PixelCNN and ImageGPT"
+title: "Lecture 18: Masked AR Models - PixelCNN and ImageGPT"
 tldr: "AR Models - Part 4"
 stat: lec
 # for lectures stat: lec
-description: This lecture goes through the idea of masked AR models. These models give us the benefit of parallel computation, and hence can be efficiently trained using Teacher-Forcing Training. We look into the examples of PixelCNN and ImageGPT: the former uses masked convolution to realize an AR model, while the latter use masked decoding.
+description: This lecture goes through the idea of masked AR models. These models give us the benefit of parallel computation, and hence can be efficiently trained using Teacher-Forcing Training. We look into the examples of PixelCNN and ImageGPT. The former uses masked convolution to realize an AR model, while the latter use masked decoding.
 videoID: ejqfN3OsDhk
 hide_from_announcments: false
 ---
