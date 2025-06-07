@@ -14,6 +14,6 @@ hide_from_announcments: false
 <!-- - [AplDL Notes: Recurent NNs]({{ site.baseurl }}/assets/AplDL/AplDL_RNNs.pdf) -->
 
 **Further Reads:**
-[MCMC Algorithms](https://www.bishopbook.com/): Chapter 12 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 12.3, 12.6 and 12.7__
+* [MCMC Algorithms](https://www.bishopbook.com/): Chapter 12 of [[M]](https://probml.github.io/pml-book/book2.html) __Sections 12.3, 12.6 and 12.7__
 * [Gibbs Sampling and Langevin](https://www.bishopbook.com/): Chapter 14 of [[BB]](https://www.bishopbook.com/)
 * [Anatomy of MCMC](https://ojs.aaai.org/index.php/AAAI/article/view/5973) Paper _On the Anatomy of MCMC-Based Maximum Likelihood Learning of Energy-Based Models_ published by _E. Nijkamp et al._ in _AAAI_ 2020 looking on the stability of training by MCMC algorithms
