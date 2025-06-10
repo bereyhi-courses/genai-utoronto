@@ -36,13 +36,13 @@ permalink: /schedule/
   <tr style="background-color: #d6f5d6;">
     <td style="border: 1px solid #999; padding: 10px;">Tutorial 4</td>
     <td style="border: 1px solid #999; padding: 10px; font-style: italic;">
-      Generative Adversarial Networks
+      Energy-based Models
     </td>
     <td style="border: 1px solid #999; padding: 10px; background-color: #d6eaff;">A. Mobasheri</td>
   </tr>
   <tr style="background-color: #d6eaff;">
     <td style="border: 1px solid #999; padding: 10px;">Tutorial 5</td>
-    <td style="border: 1px solid #999; padding: 10px; font-style: italic;">Exam Overview</td>
+    <td style="border: 1px solid #999; padding: 10px; font-style: italic;"> Generative Adversarial Networks | Exam Overview</td>
     <td style="border: 1px solid #999; padding: 10px;">M. Safavi</td>
   </tr>
   <tr style="background-color: #ffe6cc;">
