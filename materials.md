@@ -24,6 +24,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Autoregressive Modeling
 * [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Computational Autoregressive Models
 * [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Energy-based Models
+* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Flow-based Models
+
+### Chapter 4: Generative Adversarial Networks
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
