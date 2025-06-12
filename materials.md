@@ -27,6 +27,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Flow-based Models
 
 ### Chapter 4: Generative Adversarial Networks
+* [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Vanilla GAN - Generating by Min-Max Game
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
