@@ -196,7 +196,7 @@ You may review the idea of transformers in the following resources:
 * [Tutorial on Normalizing Flow](https://www.jmlr.org/papers/v22/19-1028.html) Paper _Normalizing Flows for Probabilistic Modeling and Inference_ published by _G. Papamakarios et al._ at _JMLR_ in 2021 discussing the training and inference of flow-based models
 
 
-#### State-of-the-art Models: _NICE, Real NVP and Glow_
+#### State-of-the-art Flow Models: _NICE, Real NVP and Glow_
 * [NICE](https://arxiv.org/abs/1410.8516) Paper _NICE: Non-linear Independent Components Estimation_ published by _L. Dinh et al._ at ICLR in 2015 proposing the NICE model
 * [Real NVP](https://arxiv.org/abs/1410.8516) Paper _Density estimation using Real NVP_ published by _L. Dinh et al._ at ICLR in 2017 proposing the Real NVP model
 * [Glow](https://arxiv.org/abs/1410.8516) Paper _Glow: Generative Flow with Invertible 1x1 Convolutions_ published by _D. Kingma and P. Dhariwal_ at NeurIPS in 2018 proposing the Glow model
