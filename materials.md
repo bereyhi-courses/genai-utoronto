@@ -187,3 +187,27 @@ You may review the idea of transformers in the following resources:
 * [Improved CD](https://arxiv.org/abs/1903.08689) Paper _Improved Contrastive Divergence Training of Energy-Based Models_ published by _Y. Du et al._ in _ICML_ 2021 proposing an efficient training based on Hinton's CD ideal 
 * [Anatomy of MCMC](https://ojs.aaai.org/index.php/AAAI/article/view/5973) Paper _On the Anatomy of MCMC-Based Maximum Likelihood Learning of Energy-Based Models_ published by _E. Nijkamp et al._ in _AAAI_ 2020 looking on the stability of training by MCMC algorithms
 
+#### Latent Space
+* [Latent Variable](https://www.bishopbook.com/): Chapter 16 of [[BB]](https://www.bishopbook.com/) __Sections 16.2__
+
+#### Normalizing Flow and Flow-based Models
+* [Normalizing Flow](https://www.bishopbook.com/): Chapter 18 of [[BB]](https://www.bishopbook.com/)
+* [Flow-based Models](https://www.bishopbook.com/): Chapter 23 of [[M]](https://probml.github.io/pml-book/book2.html) 
+* [Tutorial on Normalizing Flow](https://www.jmlr.org/papers/v22/19-1028.html) Paper _Normalizing Flows for Probabilistic Modeling and Inference_ published by _G. Papamakarios et al._ at _JMLR_ in 2021 discussing the training and inference of flow-based models
+
+
+#### State-of-the-art Models: _NICE, Real NVP and Glow_
+* [NICE](https://arxiv.org/abs/1410.8516) Paper _NICE: Non-linear Independent Components Estimation_ published by _L. Dinh et al._ at ICLR in 2015 proposing the NICE model
+* [Real NVP](https://arxiv.org/abs/1410.8516) Paper _Density estimation using Real NVP_ published by _L. Dinh et al._ at ICLR in 2017 proposing the Real NVP model
+* [Glow](https://arxiv.org/abs/1410.8516) Paper _Glow: Generative Flow with Invertible 1x1 Convolutions_ published by _D. Kingma and P. Dhariwal_ at NeurIPS in 2018 proposing the Glow model
+* [Flow++](https://arxiv.org/abs/1410.8516) Paper _Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design_ published by _J. Ho et al._ at ICML in 2019 proposing the Flow++ model
+
+### Chapter 4: Generative Adversarial Networks
+
+#### Vanilla GAN
+* [GANs](https://proceedings.neurips.cc/paper_files/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html) Paper _Generative Adversarial Nets_ published by _I. Goodfellow et al._ at NeurIPS in 2014 proposing GANs
+* [Tutorial on GANs](https://arxiv.org/abs/1701.00160) Tutorial _Generative Adversarial Networks_ given by _I. Goodfellow_ at NeurIPS in 2016
+* [GAN Overview](https://proceedings.neurips.cc/paper_files/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html) Paper _Generative Adversarial Networks: An Overview_ published by _A. Creswell et al._ at IEEE Signal Processing Magazine in 2018 giving a high-level overview on GANs
+
+#### W-GAN
+* [W-GANs](https://arxiv.org/abs/1701.07875) Paper _Wasserstein GAN_ published by _M. Arjovsky et al._ at ICML in 2017 proposing Wasserstein GANs
