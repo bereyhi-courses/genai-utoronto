@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-06-12T18:30:00-4:00
-title: "Lecture 25: NICE, RealNVP and Glow"
+title: "Lecture 26: NICE, RealNVP and Glow"
 tldr: "Flow-based Models - Part III"
 stat: lec
 # for lectures stat: lec
