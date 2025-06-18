@@ -36,6 +36,8 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Transformers and Large Language Models, by __Amir Hossein Mobasheri__
 * [Tutorial 3]({{site.baseurl}}/assets/Tutorials/Tutorial_3.ipynb) - [Video](https://play.library.utoronto.ca/watch/9ab3f268d96cd38160a85534184278b5): Autoregressive Models, by __Mohammadreza Safavi__
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_4.ipynb) - [Video](https://play.library.utoronto.ca/watch/33c6022fad39c376c5fca9615e42505d): EBMs, by __Amir Hossein Mobasheri__
+* [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_5.pdf) - [Video](https://play.library.utoronto.ca/watch/68a416b9717e98e92af0064a2ec53823): Exam Review
+
 
 
 ## Book
