@@ -18,6 +18,11 @@ As mentioned in the main page, the course will consists of 3 assignment sets. Ea
 - Deadline is on __June 5, 2025__ at __11:59 PM EST__
 - Up to 2 days delay with __10% deduction__ per day
 
+### Assignment 2: Explicit Methods for Generation
+- [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _June 16, 2025_ 
+- Deadline is on __July 7, 2025__ at __11:59 PM EST__
+- Up to 2 days delay with __10% deduction__ per day
+
 ## How to Submit
 We use [Crowdmark](https://crowdmark.com/), which has an easier interface and makes the chance of formatting mistakes less. When submitting, please make sure to follow the instructions below. Note that these instructions are __very important__ for correction and investigation of your submissions. Deviation from these instructions could lead to up to __10% deduction (per item).__
 
