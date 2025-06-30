@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-06-19T18:00:00-4:00
-title: "Lecture 30: GAN Samples"
+date: 2025-06-19T19:30:00-4:00
+title: "Lecture 32: GAN Samples"
 tldr: "Summary"
 stat: lec
 # for lectures stat: lec
