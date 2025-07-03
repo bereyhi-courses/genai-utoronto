@@ -32,6 +32,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Wasserstein GAN
 * [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Sample GAN Architectures and Wrap-up
 
+### Chapter 5: Variational Autoencoders
+* [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Probabilistic Latent-Space Generation
+* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Variational Inference
+
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): PyTorch Overview, Batch Training, Embedding, and Tokenization, by __Amir Hossein Mobasheri__
