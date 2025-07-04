@@ -228,3 +228,18 @@ You may review the idea of transformers in the following resources:
 * [StyleGAN](https://arxiv.org/abs/1812.04948) Paper _A Style-Based Generator Architecture for Generative Adversarial Networks_ published by _T. Karras et al._ at IEEE CVF in 2019 proposing Style GAN
 * [BigGAN](https://arxiv.org/abs/1809.11096) Paper _Large Scale GAN Training for High Fidelity Natural Image Synthesis_ published by _A. Brock et al._ at ICLR in 2019 proposing BigGAN
 * [SAGAN](https://arxiv.org/abs/1805.08318) Paper _Self-Attention Generative Adversarial Networks_ published by _H. Zhang et al._ at ICML in 2019 proposing Self-Attention GAN
+
+### Chapter 5: Variational Inference and VAEs
+
+#### Probabilistic Latent-Space Generation
+* [Probabilistic Latent](https://www.bishopbook.com/): Chapter 16 of [[BB]](https://www.bishopbook.com/) __Sections 16.1 and 16.2__
+* [AE with VI](https://arxiv.org/abs/1312.6114) Paper _Auto-Encoding Variational Bayes_ published by _D. Kingma and M. Welling_ first in 2013 discussing the power of probabilistic generation from latent
+* [Mixture Models](https://doi.org/10.1002/widm.1135) Paper _On the number of components in a Gaussian mixture model_ published by _G. McLachlan and S. Rathnayake_ in 2014 reviewing some key properties of Gaussian mixtures and their approximation power
+
+#### Variational Inference
+* [ELBO](https://www.bishopbook.com/): Chapter 16 of [[BB]](https://www.bishopbook.com/) __Section 16.3__
+* [VI for Likelihood](https://arxiv.org/abs/1302.3586) The early paper _Computing Upper and Lower Bounds on Likelihoods in Intractable Networks_ published by
+_T. Jaakkola and M. Jordan_ at UAI in 1996
+* [Tutorials on VI](https://arxiv.org/abs/1701.00160) Review paper _Variational Inference: A Review for Statisticians_ published by
+_D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI framework
+* [Introduction to VI](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019
