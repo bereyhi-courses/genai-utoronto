@@ -36,6 +36,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Probabilistic Latent-Space Generation
 * [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Variational Inference
 * [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): Variational Autoencoding
+* [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Advances in VAEs
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
