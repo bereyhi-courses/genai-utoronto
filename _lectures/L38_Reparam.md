@@ -1,16 +1,16 @@
 ---
 type: lecture
-date: 2025-07-03T19:00:00-4:00
-title: "Lecture 34: Variational Inference"
-tldr: "VI - Part II"
+date: 2025-07-10T18:00:00-4:00
+title: "Lecture 38: Gradient on Stochastic Graph by Importance Sampling and Reparameterization"
+tldr: "VAE - Part IV"
 stat: lec
 # for lectures stat: lec
-description: In this lecture, we study Variational Inference. This framework enables us to develop an implicit approach for estimating the likelihood of probabilistic generators.
-videoID: ZzDq0NWBrsk
+description: In this lecture, we discuss the Importance Sampling Trick and Reparameterization which can be used to compute gradients on a stochastic computation graph. 
+videoID: DHVkkpsDSoM 
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Chapter 5 - Section 2]({{ site.baseurl }}/assets/Notes/CH5/CH5_Sec2.pdf)
+- [Chapter 5 - Section 3]({{ site.baseurl }}/assets/Notes/CH5/CH5_Sec3.pdf)
 
 **Further Reads:**
 * [ELBO](https://www.bishopbook.com/): Chapter 16 of [[BB]](https://www.bishopbook.com/) __Section 16.3__
