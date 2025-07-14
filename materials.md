@@ -45,6 +45,8 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 3]({{site.baseurl}}/assets/Tutorials/Tutorial_3.ipynb) - [Video](https://play.library.utoronto.ca/watch/9ab3f268d96cd38160a85534184278b5): Autoregressive Models, by __Mohammadreza Safavi__
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_4.ipynb) - [Video](https://play.library.utoronto.ca/watch/33c6022fad39c376c5fca9615e42505d): EBMs, by __Amir Hossein Mobasheri__
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_5.pdf) - [Video](https://play.library.utoronto.ca/watch/68a416b9717e98e92af0064a2ec53823): Exam Review
+* [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_6.ipynb) - [Video](https://play.library.utoronto.ca/watch/8afc33e1ffe8c6a42e0fb9b2c82d4d24): GANs, by __Amir Hossein Mobasheri__
+
 
 
 
@@ -244,4 +246,19 @@ You may review the idea of transformers in the following resources:
 _T. Jaakkola and M. Jordan_ at UAI in 1996
 * [Tutorials on VI](https://arxiv.org/abs/1701.00160) Review paper _Variational Inference: A Review for Statisticians_ published by
 _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI framework
-* [Introduction to VI](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019
+* [Introduction to VAE](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019
+
+#### Variational Autoencoding
+* [AE with VI](https://arxiv.org/abs/1312.6114) Paper _Auto-Encoding Variational Bayes_ published by _D. Kingma and M. Welling_ in 2014 proposing VAE
+* [Stachastic Generation by VAE](https://arxiv.org/abs/1401.4082) Paper _Stochastic Backpropagation and Approximate Inference in Deep Generative Models_ published by _D. Rezende et al_ in 2014 proposing VAE in parallel
+* [Introduction to VAE](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019
+
+
+#### Reparametrization Trick
+* [Introduction to VAE](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019 __read the chapter on Reperameterization__
+
+#### Known VAEs 
+* [DCVAE](https://arxiv.org/abs/1312.6114) Paper _Semi-Supervised Learning with Deep Generative Models_ published by _D. Kingma et al._ in 2014 implementing a Deep Convolutional VAE
+* [Transformer VAE](https://ieeexplore.ieee.org/abstract/document/9054554) Paper _Transformer VAE: A Hierarchical Model for Structure-Aware and Interpretable Music Representation Learning_ published by _J. Jiang et al_ in ICASSP 2020 proposing a Transformer based VAE
+* [VQ-VAE](https://arxiv.org/abs/1711.00937) Paper _Neural Discrete Representation Learning_ published by _D. Kingma and M. Welling_ in NeurIPS 2017 proposing VQ-VAE
+* [VAE with VampPrior](https://arxiv.org/abs/1705.07120) Paper _VAE with a VampPrior_ published by _J. Tomczak and M. Welling_ in 2017 proposing VAE with general latent prior
