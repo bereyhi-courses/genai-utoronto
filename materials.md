@@ -258,7 +258,7 @@ _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI 
 * [Introduction to VAE](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019 __read the chapter on Reperameterization__
 
 #### Known VAEs 
-* [DCVAE](https://arxiv.org/abs/1312.6114) Paper _Semi-Supervised Learning with Deep Generative Models_ published by _D. Kingma et al._ in 2014 implementing a Deep Convolutional VAE
+* [DCVAE](https://arxiv.org/abs/1406.5298) Paper _Semi-Supervised Learning with Deep Generative Models_ published by _D. Kingma et al._ in 2014 implementing a Deep Convolutional VAE
 * [Transformer VAE](https://ieeexplore.ieee.org/abstract/document/9054554) Paper _Transformer VAE: A Hierarchical Model for Structure-Aware and Interpretable Music Representation Learning_ published by _J. Jiang et al_ in ICASSP 2020 proposing a Transformer based VAE
 * [VQ-VAE](https://arxiv.org/abs/1711.00937) Paper _Neural Discrete Representation Learning_ published by _D. Kingma and M. Welling_ in NeurIPS 2017 proposing VQ-VAE
 * [VAE with VampPrior](https://arxiv.org/abs/1705.07120) Paper _VAE with a VampPrior_ published by _J. Tomczak and M. Welling_ in 2017 proposing VAE with general latent prior
