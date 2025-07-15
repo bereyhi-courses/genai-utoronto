@@ -38,6 +38,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): Variational Autoencoding
 * [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Advances in VAEs
 
+### Chapter 5: Diffusion Models
+* [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Learning by Langevin Dynamics
+
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): PyTorch Overview, Batch Training, Embedding, and Tokenization, by __Amir Hossein Mobasheri__
