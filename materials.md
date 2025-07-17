@@ -40,6 +40,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ### Chapter 5: Diffusion Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Learning by Langevin Dynamics
+* [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): Diffusion Score Matching
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
@@ -265,3 +266,28 @@ _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI 
 * [Transformer VAE](https://ieeexplore.ieee.org/abstract/document/9054554) Paper _Transformer VAE: A Hierarchical Model for Structure-Aware and Interpretable Music Representation Learning_ published by _J. Jiang et al_ in ICASSP 2020 proposing a Transformer based VAE
 * [VQ-VAE](https://arxiv.org/abs/1711.00937) Paper _Neural Discrete Representation Learning_ published by _D. Kingma and M. Welling_ in NeurIPS 2017 proposing VQ-VAE
 * [VAE with VampPrior](https://arxiv.org/abs/1705.07120) Paper _VAE with a VampPrior_ published by _J. Tomczak and M. Welling_ in 2017 proposing VAE with general latent prior
+
+
+### Chapter 6: Diffusion Models
+
+#### Learning by Langevin Dynamics
+* [Score Matching](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf) Paper _Estimation of non-normalized statistical models by score matching_ published by _A. Hyvärinen_ in 2005 proposing the computational score matching
+
+
+#### Diffusion Score Matching 
+* [DSM](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising) Paper _Estimation of non-normalized statistical models by score matching_ published in Neural Computation by _Pascal Vincent_ in 2011 proposing the denoising approach for score estimation (DSM)
+* [Langevin Generation](https://arxiv.org/abs/1907.05600) Paper _Generative Modeling by Estimating Gradients of the Data Distribution_ published by _Song and Ermon_ in NeurIPS 2019 explaining the score matching and its applicatio to generation by Langevin Dynamics
+
+#### Diffusion Probabilistic Models
+* [Reverse-time Diffusion](https://www.sciencedirect.com/science/article/pii/0304414982900515) Paper _Reverse-time diffusion equation models_ published in Elsevier by _B. Anderson_ in 1982 esplaining the reverse-time diffusion process
+* [SDE Approach](https://proceedings.neurips.cc/paper/2021/hash/0a9fdbb17feb6ccb7ec405cfb85222c4-Abstract.html) Paper _Maximum Likelihood Training of Score-Based Diffusion Models_ by _Song et al._ in NeurIPS 2021 explaining the DPM and DDPM from inverse Diffusion viewpoint
+* [DPM](https://proceedings.mlr.press/v37/sohl-dickstein15.html) Paper _Deep Unsupervised Learning using Nonequilibrium Thermodynamics_ published by _J. Sohl-Dickstein et al._ in ICML 2015 proposing DPM framework for generation (from Variational Inference)
+* [DDPM](https://arxiv.org/abs/2006.11239) Paper _Denoising Diffusion Probabilistic Models_ published by _J. Ho et al._ in NeurIPS 2020 proposing DDPM framework
+* [Improved DDPM](https://arxiv.org/abs/2006.11239) Paper _Improved Denoising Diffusion Probabilistic Models_ published by _A. Nichol and P. Dhariwal_ in ICML 2021 proposing improvements to DDPM
+* [DDIM](https://arxiv.org/abs/2010.02502) Paper _Denoising Diffusion Implicit Models_ published by _J. Song et al._ in ICLR 2021 proposing DDIM framework
+
+#### State-of-the-Art Diffusion Models
+* [Stable Diffusion](https://arxiv.org/abs/2112.10752) Paper _High-Resolution Image Synthesis with Latent Diffusion Models_ published by _ _ in IEEE CVPR 2022 proposing Stable Diffusion
+* [CVL Group](https://ommer-lab.com/research/latent-diffusion-models/) Page of the research group _Computer Vision & Learning Group_ in LMU Munich which developed Stable Diffusion
+
+
