@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-07-17T19:30:00-4:00
-title: "Lecture 47: Diffusion Score Matching"
+title: "Lecture 48: Diffusion Score Matching"
 tldr: "Diffusion Models - Part III"
 stat: lec
 # for lectures stat: lec

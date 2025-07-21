@@ -38,7 +38,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): Variational Autoencoding
 * [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Advances in VAEs
 
-### Chapter 5: Diffusion Models
+### Chapter 6: Diffusion Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Learning by Langevin Dynamics
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): Diffusion Score Matching
 
@@ -50,7 +50,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_4.ipynb) - [Video](https://play.library.utoronto.ca/watch/33c6022fad39c376c5fca9615e42505d): EBMs, by __Amir Hossein Mobasheri__
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_5.pdf) - [Video](https://play.library.utoronto.ca/watch/68a416b9717e98e92af0064a2ec53823): Exam Review
 * [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_6.ipynb) - [Video](https://play.library.utoronto.ca/watch/8afc33e1ffe8c6a42e0fb9b2c82d4d24): GANs, by __Amir Hossein Mobasheri__
-* [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_7.ipynb) - [Video](https://play.library.utoronto.ca/watch/09975ab8e03dcbfef96e6acbf8d180da): GANs, by __Amir Hossein Mobasheri__
+* [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_7.ipynb) - [Video](https://play.library.utoronto.ca/watch/09975ab8e03dcbfef96e6acbf8d180da): VAEs, by __Amir Hossein Mobasheri__
 
 
 
