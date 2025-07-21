@@ -50,6 +50,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_4.ipynb) - [Video](https://play.library.utoronto.ca/watch/33c6022fad39c376c5fca9615e42505d): EBMs, by __Amir Hossein Mobasheri__
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_5.pdf) - [Video](https://play.library.utoronto.ca/watch/68a416b9717e98e92af0064a2ec53823): Exam Review
 * [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_6.ipynb) - [Video](https://play.library.utoronto.ca/watch/8afc33e1ffe8c6a42e0fb9b2c82d4d24): GANs, by __Amir Hossein Mobasheri__
+* [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_7.ipynb) - [Video](https://play.library.utoronto.ca/watch/09975ab8e03dcbfef96e6acbf8d180da): GANs, by __Amir Hossein Mobasheri__
 
 
 
@@ -276,7 +277,7 @@ _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI 
 
 #### Diffusion Score Matching 
 * [DSM](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising) Paper _Estimation of non-normalized statistical models by score matching_ published in Neural Computation by _Pascal Vincent_ in 2011 proposing the denoising approach for score estimation (DSM)
-* [Langevin Generation](https://arxiv.org/abs/1907.05600) Paper _Generative Modeling by Estimating Gradients of the Data Distribution_ published by _Song and Ermon_ in NeurIPS 2019 explaining the score matching and its applicatio to generation by Langevin Dynamics
+* [Langevin Generation](https://arxiv.org/abs/1907.05600) Paper _Generative Modeling by Estimating Gradients of the Data Distribution_ published by _Song and Ermon_ in NeurIPS 2019 explaining the score matching and its application to generation by Langevin Dynamics
 
 #### Diffusion Probabilistic Models
 * [Reverse-time Diffusion](https://www.sciencedirect.com/science/article/pii/0304414982900515) Paper _Reverse-time diffusion equation models_ published in Elsevier by _B. Anderson_ in 1982 esplaining the reverse-time diffusion process
