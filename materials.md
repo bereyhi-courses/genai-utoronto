@@ -41,6 +41,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 6: Diffusion Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Learning by Langevin Dynamics
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): Diffusion Score Matching
+* [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Probabilistic Diffusion
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
