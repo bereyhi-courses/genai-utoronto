@@ -276,7 +276,7 @@ _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI 
 
 
 #### Diffusion Score Matching 
-* [DSM](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising) Paper _Estimation of non-normalized statistical models by score matching_ published in Neural Computation by _Pascal Vincent_ in 2011 proposing the denoising approach for score estimation (DSM)
+* [DSM](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising) Paper _A Connection Between Score Matching and Denoising Autoencoders_ published in Neural Computation by _Pascal Vincent_ in 2011 proposing the denoising approach for score estimation (DSM)
 * [Langevin Generation](https://arxiv.org/abs/1907.05600) Paper _Generative Modeling by Estimating Gradients of the Data Distribution_ published by _Song and Ermon_ in NeurIPS 2019 explaining the score matching and its application to generation by Langevin Dynamics
 
 #### Diffusion Probabilistic Models
