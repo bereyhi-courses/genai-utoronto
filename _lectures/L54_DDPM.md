@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-07-24T19:20:00-4:00
-title: "Lecture 53: Denoising DPMs"
+title: "Lecture 54: Denoising DPMs"
 tldr: "DDPMs"
 stat: lec
 # for lectures stat: lec
