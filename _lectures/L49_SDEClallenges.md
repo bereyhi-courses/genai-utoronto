@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-07-22T18:00:00-4:00
 title: "Lecture 49: Summary of Score Matching and SDE Limitations"
-tldr: "Diffusion Models - Part IV"
+tldr: "Diffusion by Score - Part V"
 stat: lec
 # for lectures stat: lec
 description: In this lecture, we summarize what we learned on SDE-based diffusion models. We see that due to the lack of guarantee on higher order differentials, such models are limited on accuracy. This motivates us looking at diffusion from a probabilistic viewpoint.  

@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2025-07-17T19:00:00-4:00
-title: "Lecture 47: Generic Diffusion SDE and Its Reverse"
-tldr: "Diffusion Models - Part III"
+title: "Lecture 47: Building SDE and Its Reverse for Data Generation"
+tldr: "Diffusion by Score - Part III"
 stat: lec
 # for lectures stat: lec
 description: In this lecture, we design a SDE and its reverse which is able to send us from data sample to Gaussian Latent and back from Latent to Data. We also find out what we need to learn in order to be able to get back from Latent to Data.

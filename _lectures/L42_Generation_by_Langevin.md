@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-07-15T18:00:00-4:00
 title: "Lecture 42: Generation by Langevin Dynamics"
-tldr: "Basic Diffusion - Part I"
+tldr: "Diffusion by Score - Part I"
 stat: lec
 # for lectures stat: lec
 description: In this lecture we start with the most basic diffusion-based generation framework which uses Langevin Dynamics to sample from data distribution. We understand that we only need to know the score function to generate by this approach.

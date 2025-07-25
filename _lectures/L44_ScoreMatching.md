@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-07-15T19:00:00-4:00
 title: "Lecture 44: Learning to Diffuse by Score Matching"
-tldr: "Diffusion Models - Part II"
+tldr: "Diffusion by Score - Part II"
 stat: lec
 # for lectures stat: lec
 description: In this lecture, we learn the idea of score-matching. We learn how we could use sampling to train a computational model that performs score matching, and how we could use the Langevin dynamics to sample from data distribution using our trained score network. 

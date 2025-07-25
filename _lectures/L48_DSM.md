@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-07-17T19:30:00-4:00
 title: "Lecture 48: Diffusion Score Matching"
-tldr: "Diffusion Models - Part III"
+tldr: "Diffusion by Score - Part IV"
 stat: lec
 # for lectures stat: lec
 description: In this lecture, we go through diffusion score matching idea which enables us to learn the required scores for data generation on a reverse SDE. This enables us to sample from data distribution via a diffusion process without learning the data score.
