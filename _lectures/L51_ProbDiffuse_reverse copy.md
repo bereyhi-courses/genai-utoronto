@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-07-22T19:30:00-4:00
-title: "Lecture 50: Reverse Probabilistic Diffusion via MLE"
+title: "Lecture 51: Reverse Probabilistic Diffusion via MLE"
 tldr: "DPMs - Part II"
 stat: lec
 # for lectures stat: lec
