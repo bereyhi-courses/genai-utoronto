@@ -43,6 +43,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): Diffusion Score Matching
 * [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Probabilistic Diffusion
 * [Section 4]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec4.pdf): DPM, DDPM and DDIM
+* [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Know Diffusion Models
+
+### Chapter 7: Multimodality and Conditional Generation
+* [Handouts]({{site.baseurl}}/assets/Notes/CH7/CH7.pdf): All sections included in a single file
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
