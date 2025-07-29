@@ -299,5 +299,14 @@ _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI 
 * [Imagen](https://arxiv.org/abs/2205.11487) Paper _Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding_ published by _C. Saharia et al._ in 2022 at Google proposing Imagen model
 * [DALL-E](https://openai.com/index/dall-e/) Page of the DALL-E project by OpenAI
 
+### Chapter 7: Conditional Models
+* [Text-to-Image](https://proceedings.mlr.press/v139/radford21a) Paper _Learning Transferable Visual Models From Natural Language Supervision_ published by _A. Radford et al._ in ICML 2021 proposing visual data generation from raw text
+* [FiLM](https://arxiv.org/abs/1709.07871) Paper _FiLM: Visual Reasoning with a General Conditioning Layer_ published by _E. Perez et al._ in AAAI 2018 proposing FiLM
+* [Cross-Attention Conditioning](https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.html) Paper _Multi-Modality Cross Attention Network for Image and Sentence Matching_ published by _X. Wei et al._ in IEEE CVPR 2020 proposing a cross-attention based approach for conditioning
+* [Survey on Multimodal Models](https://dl.acm.org/doi/full/10.1145/3656580) Paper _Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions_ published by _P. Liang et al._ in 2023 
+
+
+
+
 
 
