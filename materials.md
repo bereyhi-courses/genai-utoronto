@@ -288,11 +288,16 @@ _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI 
 * [SDE Approach](https://proceedings.neurips.cc/paper/2021/hash/0a9fdbb17feb6ccb7ec405cfb85222c4-Abstract.html) Paper _Maximum Likelihood Training of Score-Based Diffusion Models_ by _Song et al._ in NeurIPS 2021 explaining the DPM and DDPM from inverse Diffusion viewpoint
 * [DPM](https://proceedings.mlr.press/v37/sohl-dickstein15.html) Paper _Deep Unsupervised Learning using Nonequilibrium Thermodynamics_ published by _J. Sohl-Dickstein et al._ in ICML 2015 proposing DPM framework for generation (from Variational Inference)
 * [DDPM](https://arxiv.org/abs/2006.11239) Paper _Denoising Diffusion Probabilistic Models_ published by _J. Ho et al._ in NeurIPS 2020 proposing DDPM framework
-* [Improved DDPM](https://arxiv.org/abs/2006.11239) Paper _Improved Denoising Diffusion Probabilistic Models_ published by _A. Nichol and P. Dhariwal_ in ICML 2021 proposing improvements to DDPM
+* [DDPM GitHub](https://github.com/hojonathanho/diffusion) GitHub Page including codes of the paper _Denoising Diffusion Probabilistic Models_
+* [Improved DDPM](https://arxiv.org/abs/2102.09672) Paper _Improved Denoising Diffusion Probabilistic Models_ published by _A. Nichol and P. Dhariwal_ in ICML 2021 proposing improvements to DDPM
 * [DDIM](https://arxiv.org/abs/2010.02502) Paper _Denoising Diffusion Implicit Models_ published by _J. Song et al._ in ICLR 2021 proposing DDIM framework
+* [Clssifier-free Denosing](https://arxiv.org/abs/2207.12598) Paper _Classifier-Free Diffusion Guidance_ published by _J. Ho and T. Salimans_ in NeurIPS 2021 proposing improved training for DDPM
 
 #### State-of-the-Art Diffusion Models
-* [Stable Diffusion](https://arxiv.org/abs/2112.10752) Paper _High-Resolution Image Synthesis with Latent Diffusion Models_ published by _ _ in IEEE CVPR 2022 proposing Stable Diffusion
+* [Stable Diffusion](https://arxiv.org/abs/2112.10752) Paper _High-Resolution Image Synthesis with Latent Diffusion Models_ published by _R. Rombach et al._ in IEEE CVPR 2022 proposing Stable Diffusion
 * [CVL Group](https://ommer-lab.com/research/latent-diffusion-models/) Page of the research group _Computer Vision & Learning Group_ in LMU Munich which developed Stable Diffusion
+* [Imagen](https://arxiv.org/abs/2205.11487) Paper _Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding_ published by _C. Saharia et al._ in 2022 at Google proposing Imagen model
+* [DALL-E](https://openai.com/index/dall-e/) Page of the DALL-E project by OpenAI
+
 
 
