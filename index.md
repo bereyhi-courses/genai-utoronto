@@ -10,6 +10,8 @@ For the Quercus page of the course please [click here](https://q.utoronto.ca/cou
 ### Final Presentations
 The final project presentations will be given on _Tuesday August 5_ and _Thursday August 7._ 
 
+The seminars __start at 6:00 PM__ in the __lecture hall.__ The detailed schedule can be found [here.](https://q.utoronto.ca/courses/388349/pages/presentation-schedule)
+
 * We will post the detailed schedule of the presentation one week in advance. If you prefer to present on specific day, you may let us know, though we cannot guarantee to set you on that day.
 * While presenting, all group members should be be on the presentation stage. Nevertheless, if the group prefers, the presentation can be given by some members.
     - If some group members cannot attend due to specific circumstances, they need to __get approval in advance__ by letting the instructor know and ask for permission. 
