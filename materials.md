@@ -57,10 +57,8 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_5.pdf) - [Video](https://play.library.utoronto.ca/watch/68a416b9717e98e92af0064a2ec53823): Exam Review
 * [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_6.ipynb) - [Video](https://play.library.utoronto.ca/watch/8afc33e1ffe8c6a42e0fb9b2c82d4d24): GANs, by __Amir Hossein Mobasheri__
 * [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_7.ipynb) - [Video](https://play.library.utoronto.ca/watch/09975ab8e03dcbfef96e6acbf8d180da): VAEs, by __Amir Hossein Mobasheri__
-* [Tutorial 8]({{site.baseurl}}/assets/Tutorials/Tutorial_8.ipynb) - [Video](https://play.library.utoronto.ca/watch/e5fd32079c080345a42271895546d1c0): Diffusion Models, by __Mohammadreza Safavi__
-
-
-
+* [Tutorial 8]({{site.baseurl}}/assets/Tutorials/Tutorial_8.ipynb) - [Video](https://play.library.utoronto.ca/watch/e5fd32079c080345a42271895546d1c0): Diffusion Models I, by __Mohammadreza Safavi__
+* [Tutorial 9]({{site.baseurl}}/assets/Tutorials/Tutorial_9.ipynb) - [Video](https://play.library.utoronto.ca/watch/81ea3281f2b43d022c41273f7c2a4a8d): Diffusion Models II, by __Mohammadreza Safavi__
 
 
 ## Book
