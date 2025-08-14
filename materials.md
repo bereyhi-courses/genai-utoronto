@@ -208,7 +208,7 @@ You may review the idea of transformers in the following resources:
 * [Gibbs Sampling and Langevin](https://www.bishopbook.com/): Chapter 14 of [[BB]](https://www.bishopbook.com/)
 
 #### Training EBMs by MCMC Sampling
-* [Conservative Divergence](https://ieeexplore.ieee.org/abstract/document/6796877) Paper _Training Products of Experts by Minimizing Contrastive Divergence,_ by _G. Hinton_ published at _Neural Computation_ in 2002 proposing the idea of _Conservative Divergence_
+* [Contrastive Divergence](https://www.cs.toronto.edu/~hinton/csc2535/readings/nccd.pdf) Paper _Training Products of Experts by Minimizing Contrastive Divergence,_ by _G. Hinton_ published at _Neural Computation_ in 2002 proposing the idea of _Conservative Divergence_
 * [Training by MCMC](https://arxiv.org/abs/1903.08689) Paper _Implicit Generation and Generalization in Energy-Based Models_ published by _Y. Du and I. Mordatch_ in _NeurIPS_ 2019 discussing efficiency of MCMC algorithms for EBM training
 * [Improved CD](https://arxiv.org/abs/1903.08689) Paper _Improved Contrastive Divergence Training of Energy-Based Models_ published by _Y. Du et al._ in _ICML_ 2021 proposing an efficient training based on Hinton's CD ideal 
 * [Anatomy of MCMC](https://ojs.aaai.org/index.php/AAAI/article/view/5973) Paper _On the Anatomy of MCMC-Based Maximum Likelihood Learning of Energy-Based Models_ published by _E. Nijkamp et al._ in _AAAI_ 2020 looking on the stability of training by MCMC algorithms
