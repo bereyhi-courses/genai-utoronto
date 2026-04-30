@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-<table style="border-collapse: collapse; width: 100%;">
+<!-- <table style="border-collapse: collapse; width: 100%;">
     <tr style="background-color: white;">
     <td style="border: 1px solid #999; padding: 10px;">Session</td>
     <td style="border: 1px solid #999; padding: 10px;">
@@ -81,4 +81,4 @@ permalink: /schedule/
     </td>
     <td style="border: 1px solid #999; padding: 10px;">M. Safavi</td>
   </tr>
-</table>
+</table> -->
