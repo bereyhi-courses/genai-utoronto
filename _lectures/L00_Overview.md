@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-05-06T18:00:00-4:00
 title: "Lecture 0: Course Overview and Logistics"
@@ -10,5 +10,5 @@ videoID: PYVM7Ab9FXQ
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Chapter 0]({{ site.baseurl }}/assets/Notes/CH0/CH0.pdf)
+- [Chapter 0]({{ site.baseurl }}/assets/Notes/CH0/CH0.pdf) -->
 <!-- - [AplDL Notes: Recurent NNs]({{ site.baseurl }}/assets/AplDL/AplDL_RNNs.pdf) -->

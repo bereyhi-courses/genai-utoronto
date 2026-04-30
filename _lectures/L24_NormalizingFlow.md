@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-06-10T19:30:00-4:00
 title: "Lecture 24: Normalizing Flow"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 5]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec5.pdf)
 
 **Further Reads:**
-* [Normalizing Flow](https://www.bishopbook.com/): Chapter 18 of [[BB]](https://www.bishopbook.com/)
+* [Normalizing Flow](https://www.bishopbook.com/): Chapter 18 of [[BB]](https://www.bishopbook.com/) -->

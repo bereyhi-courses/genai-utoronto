@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-07-03T19:00:00-4:00
 title: "Lecture 34: Variational Inference"
@@ -18,4 +18,4 @@ hide_from_announcments: false
 _T. Jaakkola and M. Jordan_ at UAI in 1996
 * [Tutorials on VI](https://arxiv.org/abs/1701.00160) Review paper _Variational Inference: A Review for Statisticians_ published by
 _D. Blei, A. Kucukelbir, and J. McAuliffe_ in 2016 giving a good overview on VI framework
-* [Introduction to VI](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019
+* [Introduction to VI](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019 -->

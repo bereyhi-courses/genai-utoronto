@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-07-29T19:50:00-4:00
 title: "Lecture 59: Final Words"
@@ -11,4 +11,4 @@ hide_from_announcments: false
 ---
 **Lecture Notes:**
 - [Chapter 7]({{ site.baseurl }}/assets/Notes/CH6/CH7.pdf)
-
+ -->

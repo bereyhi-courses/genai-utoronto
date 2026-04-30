@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-07-24T19:20:00-4:00
 title: "Lecture 54: Denoising DPMs"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [DDPM](https://arxiv.org/abs/2006.11239) Paper _Denoising Diffusion Probabilistic Models_ published by _J. Ho et al._ in NeurIPS 2020 proposing DDPM framework
-* [Improved DDPM](https://arxiv.org/abs/2006.11239) Paper _Improved Denoising Diffusion Probabilistic Models_ published by _A. Nichol and P. Dhariwal_ in ICML 2021 proposing improvements to DDPM
+* [Improved DDPM](https://arxiv.org/abs/2006.11239) Paper _Improved Denoising Diffusion Probabilistic Models_ published by _A. Nichol and P. Dhariwal_ in ICML 2021 proposing improvements to DDPM -->

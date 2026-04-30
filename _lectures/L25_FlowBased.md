@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-06-12T18:00:00-4:00
 title: "Lecture 25: Learning Flow"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Flow-based Models](https://www.bishopbook.com/): Chapter 23 of [[M]](https://probml.github.io/pml-book/book2.html) 
-* [Tutorial on Normalizing Flow](https://www.jmlr.org/papers/v22/19-1028.html) Paper _Normalizing Flows for Probabilistic Modeling and Inference_ published by _G. Papamakarios et al._ at _JMLR_ in 2021 discussing the training and inference of flow-based models
+* [Tutorial on Normalizing Flow](https://www.jmlr.org/papers/v22/19-1028.html) Paper _Normalizing Flows for Probabilistic Modeling and Inference_ published by _G. Papamakarios et al._ at _JMLR_ in 2021 discussing the training and inference of flow-based models -->

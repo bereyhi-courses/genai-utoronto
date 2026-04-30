@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-06-17T19:00:00-4:00
 title: "Lecture 29: Implicit MLE via GAN"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [GANs](https://proceedings.neurips.cc/paper_files/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html) Paper _Generative Adversarial Nets_ published by _I. Goodfellow et al._ at NeurIPS in 2014 proposing GANs
-* [Tutorial on GANs](https://arxiv.org/abs/1701.00160) Tutorial _Generative Adversarial Networks_ given by _I. Goodfellow_ at NeurIPS in 2016
+* [Tutorial on GANs](https://arxiv.org/abs/1701.00160) Tutorial _Generative Adversarial Networks_ given by _I. Goodfellow_ at NeurIPS in 2016 -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-07-10T18:30:00-4:00
 title: "Lecture 39: Training Computational VAE"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [AE with VI](https://arxiv.org/abs/1312.6114) Paper _Auto-Encoding Variational Bayes_ published by _D. Kingma and M. Welling_ in 2014 proposing VAE
-* [Stachastic Generation by VAE](https://arxiv.org/abs/1401.4082) Paper _Stochastic Backpropagation and Approximate Inference in Deep Generative Models_ published by _D. Rezende et al_ in 2014 proposing VAE in parallel
+* [Stachastic Generation by VAE](https://arxiv.org/abs/1401.4082) Paper _Stochastic Backpropagation and Approximate Inference in Deep Generative Models_ published by _D. Rezende et al_ in 2014 proposing VAE in parallel -->

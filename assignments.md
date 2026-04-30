@@ -10,23 +10,24 @@ permalink: /assignments/
 </div>
 </p>
 
-As mentioned in the main page, the course will consists of 3 assignment sets. Each assignment includes Written Questions that are to be solved (or briefly answered), and Programming Tasks which are to be implemented in Python.
+<!-- As mentioned in the main page, the course will consists of 5 assignment sets.  -->
+<!-- Each assignment includes Written Questions that are to be solved (or briefly answered), and Programming Tasks which are to be implemented in Python. -->
 
-## Assignment Releases
-### Assignment 1: Language Modeling
+<!-- ## Assignment Releases -->
+<!-- ### Assignment 1: Language Modeling
 - [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _May 20, 2025_ 
 - Deadline is on __June 5, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day
+- Up to 2 days delay with __10% deduction__ per day -->
 
-### Assignment 2: Explicit Methods for Generation
+<!-- ### Assignment 2: Explicit Methods for Generation
 - [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _June 16, 2025_ 
 - Deadline is on __July 7, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day
+- Up to 2 days delay with __10% deduction__ per day -->
 
-### Assignment 3: Implicit Methods for Generation
+<!-- ### Assignment 3: Implicit Methods for Generation
 - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _July 21, 2025_ 
 - Deadline is on __August 4, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day
+- Up to 2 days delay with __10% deduction__ per day -->
 
 ## How to Submit
 We use [Crowdmark](https://crowdmark.com/), which has an easier interface and makes the chance of formatting mistakes less. When submitting, please make sure to follow the instructions below. Note that these instructions are __very important__ for correction and investigation of your submissions. Deviation from these instructions could lead to up to __10% deduction (per item).__
@@ -35,18 +36,14 @@ On Crowdmark, please submit the answer of each question separately, following th
 
 - For Written Questions, you can submit handwritten or typed answers as a .pdf , .jpg or .png file.
 
-- For Programming Questions, please print __your code and the requested outputs__ as a .pdf file and upload it in the answer field of the corresponding question on Crowdmark. Your uploaded .pdf should contain __all figures, diagrams and codes that are requested in the question.__ 
+- For Programming Questions, please submit a __Notebook (.ipynb)__ file including __your code and all outputs__. Your Notebook should contain __all figures, diagrams and codes that are requested in the question.__ You should make sure that the __the code runs without error.__
 
-- The source codes should also be submitted as a __single .zip file__ attached to the last item on Crowdmark.
-    - Please set the file name  __Lastname_Firstname_Assgn#.ipynb__
-    - Please make sure to name the files with the name that is displayed on the __Quercus account__
+- Please set the file name  __Lastname_Firstname_Assgn#_Question#.ipynb.__
 
+- Please make sure to use the name that is displayed on the __Quercus account.__
  
 
 The deadlines are very strict and cannot be extended for the sake of fairness
 
 - The deadline is specified on the Assignment file
-- You might be permitted to submit with up to 2 days delay; however, for each day of delay __10% of the total mark (after correction)__ will be deducted
-    - The deduction is computed __per day not hourly__
-    - You __cannot__ submit the assignment in two parts
-    - In case of multiple submissions __the last one counts__
+- No late submission is accepted 

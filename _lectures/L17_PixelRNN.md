@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-05-29T19:00:00-4:00
 title: "Lecture 17: PixelRNN"
@@ -11,7 +11,6 @@ hide_from_announcments: false
 ---
 **Lecture Notes:**
 - [Chapter 3 - Section 3]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec3.pdf)
-<!-- - [AplDL Notes: Recurent NNs]({{ site.baseurl }}/assets/AplDL/AplDL_RNNs.pdf) -->
 
 **Further Reads:**
-* [PixelRNN and PixelCNN](https://arxiv.org/abs/1601.06759): Paper _Pixel Recurrent Neural Networks_ by _A. Oord et al._ presented at _ICML_ in 2016 proposing PixelRNN and PixelCNN
+* [PixelRNN and PixelCNN](https://arxiv.org/abs/1601.06759): Paper _Pixel Recurrent Neural Networks_ by _A. Oord et al._ presented at _ICML_ in 2016 proposing PixelRNN and PixelCNN -->

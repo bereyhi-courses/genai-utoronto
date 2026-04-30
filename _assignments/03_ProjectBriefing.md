@@ -1,4 +1,4 @@
----
+<!-- ---
 type: assignment
 date: 2025-07-04T20:00:00-4:00
 title: 'Project Briefing'
@@ -10,4 +10,4 @@ due_event:
     date: 2025-07-16T23:59:59-4:00
     description: 'Project Briefing due'
 ---
-Please submit through the [provided Crowdmark link](https://app.crowdmark.com/student/assessments/project-progress-briefing-c4bf4)
+Please submit through the [provided Crowdmark link](https://app.crowdmark.com/student/assessments/project-progress-briefing-c4bf4) -->

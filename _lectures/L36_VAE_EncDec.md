@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-07-08T18:30:00-4:00
 title: "Lecture 36: Encoding and Decoding in VAEs"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [AE with VI](https://arxiv.org/abs/1312.6114) Paper _Auto-Encoding Variational Bayes_ published by _D. Kingma and M. Welling_ in 2014 proposing VAE
-* [Introduction to VAE](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019
+* [Introduction to VAE](https://arxiv.org/abs/1906.02691) Book _An Introduction to Variational Autoencoders_ written by _D. Kingma and M. Welling_ and published by NOW in 2019 -->

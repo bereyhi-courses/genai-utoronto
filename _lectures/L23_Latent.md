@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-06-10T18:40:00-4:00
 title: "Lecture 23: Latent Space"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 5]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec5.pdf)
 
 **Further Reads:**
-* [Latent Variable](https://www.bishopbook.com/): Chapter 16 of [[BB]](https://www.bishopbook.com/) __Sections 16.2__
+* [Latent Variable](https://www.bishopbook.com/): Chapter 16 of [[BB]](https://www.bishopbook.com/) __Sections 16.2__ -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-07-03T18:00:00-4:00
 title: "Lecture 33: Probabilistic Latent-Space Generation"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Probabilistic Latent](https://www.bishopbook.com/): Chapter 16 of [[BB]](https://www.bishopbook.com/) __Sections 16.1 and 16.2__
-* [Mixture Models](https://doi.org/10.1002/widm.1135) Paper _On the number of components in a Gaussian mixture model_ published by _G. McLachlan and S. Rathnayake_ in 2014 reviewing some key properties of Gaussian mixtures and their approximation power
+* [Mixture Models](https://doi.org/10.1002/widm.1135) Paper _On the number of components in a Gaussian mixture model_ published by _G. McLachlan and S. Rathnayake_ in 2014 reviewing some key properties of Gaussian mixtures and their approximation power -->

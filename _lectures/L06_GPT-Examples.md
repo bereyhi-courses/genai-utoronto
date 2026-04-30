@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-05-15T18:00:00-4:00
 title: "Lecture 6: LLM Examples"
@@ -11,7 +11,6 @@ hide_from_announcments: false
 ---
 **Lecture Notes:**
 - [Chapter 1 - Section 3]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec3.pdf)
-<!-- - [AplDL Notes: Recurent NNs]({{ site.baseurl }}/assets/AplDL/AplDL_RNNs.pdf) -->
 
 **Further Reads:**
 * [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf): Paper _Improving Language Understanding by Generative Pre-Training_ by _Alec Radford et al._ (OpenAI, 2018) that introduced GPT-1 and revived the idea of pretraining transformers as LMs followed by supervised fine-tuning
@@ -22,4 +21,4 @@ hide_from_announcments: false
 * [The Pile](https://arxiv.org/abs/2101.00027): Paper _The Pile: An 800GB Dataset of Diverse Text for Language Modeling_ by _Leo Gao et al._ presented in 2020 introductin dataset __The Pile__
 * [Documentation Debt](https://arxiv.org/abs/2105.05241): Paper _Addressing "Documentation Debt" in Machine Learning Research: A Retrospective Datasheet for BookCorpus_ by _Jack Bandy and Nicholas Vincent_ published in 2021 discussing the efficiency and legality of data collection by looking into [BookCorpus](https://arxiv.org/abs/1511.06398)
 
-
+ -->

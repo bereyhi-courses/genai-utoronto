@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-06-12T19:00:00-4:00
 title: "Lecture 27: Introduction to GAN"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 4 - Section 1]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec1.pdf)
 
 **Further Reads:**
-* [Tutorial on GANs](https://arxiv.org/abs/1701.00160) Tutorial _Generative Adversarial Networks_ given by _I. Goodfellow_ at NeurIPS in 2016
+* [Tutorial on GANs](https://arxiv.org/abs/1701.00160) Tutorial _Generative Adversarial Networks_ given by _I. Goodfellow_ at NeurIPS in 2016 -->

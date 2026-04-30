@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-06-19T19:30:00-4:00
 title: "Lecture 32: GAN Samples"
@@ -16,4 +16,4 @@ hide_from_announcments: false
 * [DCGAN](https://arxiv.org/abs/1511.06434) Paper _Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks_ published by _A. Radford et al._ at ICLR in 2016 proposing DCGAN
 * [StyleGAN](https://arxiv.org/abs/1812.04948) Paper _A Style-Based Generator Architecture for Generative Adversarial Networks_ published by _T. Karras et al._ at IEEE CVF in 2019 proposing Style GAN
 * [BigGAN](https://arxiv.org/abs/1809.11096) Paper _Large Scale GAN Training for High Fidelity Natural Image Synthesis_ published by _A. Brock et al._ at ICLR in 2019 proposing BigGAN
-* [SAGAN](https://arxiv.org/abs/1805.08318) Paper _Self-Attention Generative Adversarial Networks_ published by _H. Zhang et al._ at ICML in 2019 proposing Self-Attention GAN
+* [SAGAN](https://arxiv.org/abs/1805.08318) Paper _Self-Attention Generative Adversarial Networks_ published by _H. Zhang et al._ at ICML in 2019 proposing Self-Attention GAN -->

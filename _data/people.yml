@@ -1,25 +1,25 @@
 instructors:
   - name: Ali Bereyhi
     profile_pic: /_images/pp/instructor.jpg
-    title: Assistant Professor (TS)
+    title: Assistant Professor
     affil: ECE Department
     address: Bahen 7208
     webpage: https://www.bereyhi.com/
 
 
 teaching_assistants:
-  - name: Likun Cai
+  - name: Cassie Li
     profile_pic: /_images/pp/TAava.png
-    webpage: mailto:likun.cai@mail.utoronto.ca
+    webpage: mailto:cassiekx.li@mail.utoronto.ca
+
+  - name: Sara Azadegi Naeini
+    profile_pic: /_images/pp/TAava.png
+    webpage: mailto:sara.azadeginaeini@mail.utoronto.ca
 
   - name: Amir Hossein Mobasheri
     profile_pic: /_images/pp/TAava.png
     webpage: mailto:amir.mobasheri@mail.utoronto.ca
 
-  - name: Amirhosein Rostami
-    profile_pic: /_images/pp/TAava.png
-    webpage: mailto:amirhosein.rostami@mail.utoronto.ca
-  
   - name: Mohammadreza Safavi
     profile_pic: /_images/pp/TAava.png
     webpage: mailto:mohammadreza.safavi@mail.utoronto.ca

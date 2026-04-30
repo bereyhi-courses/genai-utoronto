@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-07-10T19:30:00-4:00
 title: "Lecture 41: Vector-Quantized VAE"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 5 - Section 4]({{ site.baseurl }}/assets/Notes/CH5/CH5_Sec3.pdf)
 
 **Further Reads:**
-* [VQ-VAE](https://arxiv.org/abs/1711.00937) Paper _Neural Discrete Representation Learning_ published by _D. Kingma and M. Welling_ in NeurIPS 2017 proposing VQ-VAE
+* [VQ-VAE](https://arxiv.org/abs/1711.00937) Paper _Neural Discrete Representation Learning_ published by _D. Kingma and M. Welling_ in NeurIPS 2017 proposing VQ-VAE -->

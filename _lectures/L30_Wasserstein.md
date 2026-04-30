@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-06-19T18:00:00-4:00
 title: "Lecture 30: Wasserstein Distance"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [W-GANs](https://arxiv.org/abs/1701.07875) Paper _Wasserstein GAN_ published by _M. Arjovsky et al._ at ICML in 2017 proposing Wasserstein GANs
-* [Tutorial on GANs](https://arxiv.org/abs/1701.00160) Tutorial _Generative Adversarial Networks_ given by _I. Goodfellow_ at NeurIPS in 2016
+* [Tutorial on GANs](https://arxiv.org/abs/1701.00160) Tutorial _Generative Adversarial Networks_ given by _I. Goodfellow_ at NeurIPS in 2016 -->
