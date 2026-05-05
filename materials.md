@@ -14,39 +14,39 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Transformer-based LMs
 * [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Large Language Models
 
-### Chapter 2: Data Generation Problem
+<!-- ### Chapter 2: Data Generation Problem
 * [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Basic Definitions
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Generative and Discriminative Learning
-* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Generative Modeling
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Generative Modeling -->
 
-### Chapter 3: Data Generation by Explicit Distribution Learning
+<!-- ### Chapter 3: Data Generation by Explicit Distribution Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Distribution Learning
 * [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Autoregressive Modeling
 * [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Computational Autoregressive Models
 * [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Energy-based Models
-* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Flow-based Models
+* [Section 5]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec5.pdf): Flow-based Models -->
 
-### Chapter 4: Generative Adversarial Networks
+<!-- ### Chapter 4: Generative Adversarial Networks
 * [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Vanilla GAN - Generating by Min-Max Game
 * [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Implicit MLE Learning by GAN
 * [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Wasserstein GAN
-* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Sample GAN Architectures and Wrap-up
+* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Sample GAN Architectures and Wrap-up -->
 
-### Chapter 5: Variational Autoencoders
+<!-- ### Chapter 5: Variational Autoencoders
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Probabilistic Latent-Space Generation
 * [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Variational Inference
 * [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): Variational Autoencoding
-* [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Advances in VAEs
+* [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Advances in VAEs -->
 
-### Chapter 6: Diffusion Models
+<!-- ### Chapter 6: Diffusion Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Learning by Langevin Dynamics
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): Diffusion Score Matching
 * [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Probabilistic Diffusion
 * [Section 4]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec4.pdf): DPM, DDPM and DDIM
-* [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Know Diffusion Models
+* [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Know Diffusion Models -->
 
-### Chapter 7: Multimodality and Conditional Generation
-* [Handouts]({{site.baseurl}}/assets/Notes/CH7/CH7.pdf): All sections included in a single file
+<!-- ### Chapter 7: Multimodality and Conditional Generation
+* [Handouts]({{site.baseurl}}/assets/Notes/CH7/CH7.pdf): All sections included in a single file -->
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
