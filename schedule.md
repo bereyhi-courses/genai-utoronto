@@ -3,23 +3,24 @@ layout: schedule
 title: Schedule
 permalink: /schedule/
 ---
-# Tutorial Schedule 
+# Tutorial Schedule
+
 | Date                      | Topic                                                                 | Tutorial        | Week |
 |---------------------------|----------------------------------------------------------------------|------------------|------|
-| Thursday, May 14, 2026    | PyTorch Overview -- General DL Programming Pipelines -- Tokenization and Embedding | Amir Hossein     | 2    |
-| Thursday, May 21, 2026    | Transformers -- Language Models -- BERT                              | Amir Hossein     | 3    |
+| Thursday, May 14, 2026    | PyTorch Overview –  Tokenization and Embedding                       | Amir Hossein     | 2    |
+| Thursday, May 21, 2026    | Transformers – Language Models – BERT                                | Amir Hossein     | 3    |
 | Thursday, May 28, 2026    | Generative vs Discriminative Learning                                | Mohammadreza     | 4    |
-| Thursday, June 4, 2026    | Autoregressive Models                                               | Mohammadreza     | 5    |
-| Thursday, June 11, 2026   | Energy-based Models                                                 | Amir Hossein     | 6    |
-| Thursday, June 18, 2026   | Midterm                                                            |                  | 7    |
-| Thursday, June 25, 2026   | Normalizing Flow                                                   | Mohammadreza     | 8    |
-| Thursday, July 2, 2026    | GANs                                                               | Amir Hossein     | 9    |
-| Thursday, July 9, 2026    | Sample Project from Last Year                                      |                  | 10   |
-| Thursday, July 16, 2026   | VAE and Q-VAE                                                     | Amir Hossein     | 11   |
-| Thursday, July 23, 2026   | Score-based Diffusion                                              | Mohammadreza     | 12   |
-| Thursday, July 30, 2026   | Midterm                                                           |                  | 13   |
-| Thursday, August 6, 2026  | DDPM and DDIM                                                     | Mohammadreza     | 14   |
-| Thursday, August 13, 2026 | Reserved                                                          |                  | 15   |
+| Thursday, June 4, 2026    | Autoregressive Models                                                | Mohammadreza     | 5    |
+| Thursday, June 11, 2026   | Energy-based Models                                                  | Amir Hossein     | 6    |
+| Thursday, June 18, 2026   | Midterm                                                              |                  | 7    |
+| Thursday, June 25, 2026   | Normalizing Flow                                                     | Mohammadreza     | 8    |
+| Thursday, July 2, 2026    | GANs                                                                 | Amir Hossein     | 9    |
+| Thursday, July 9, 2026    | Sample Project from Last Year                                        |                  | 10   |
+| Thursday, July 16, 2026   | VAE and Q-VAE                                                        | Amir Hossein     | 11   |
+| Thursday, July 23, 2026   | Score-based Diffusion                                                | Mohammadreza     | 12   |
+| Thursday, July 30, 2026   | Midterm                                                              |                  | 13   |
+| Thursday, August 6, 2026  | DDPM and DDIM                                                        | Mohammadreza     | 14   |
+| Thursday, August 13, 2026 | Reserved                                                             |                  | 15   |
 
 
 <!-- <table style="border-collapse: collapse; width: 100%;">
