@@ -5,23 +5,82 @@ permalink: /schedule/
 ---
 # Tutorial Schedule
 
-| Date                      | Topic                                                                 | Tutorial        | Week |
-|---------------------------|----------------------------------------------------------------------|------------------|------|
-| Thursday, May 14, 2026    | PyTorch Overview –  Tokenization and Embedding                       | Amir Hossein     | 2    |
-| Thursday, May 21, 2026    | Transformers – Language Models – BERT                                | Amir Hossein     | 3    |
-| Thursday, May 28, 2026    | Generative vs Discriminative Learning                                | Mohammadreza     | 4    |
-| Thursday, June 4, 2026    | Autoregressive Models                                                | Mohammadreza     | 5    |
-| Thursday, June 11, 2026   | Energy-based Models                                                  | Amir Hossein     | 6    |
-| Thursday, June 18, 2026   | Midterm                                                              |                  | 7    |
-| Thursday, June 25, 2026   | Normalizing Flow                                                     | Mohammadreza     | 8    |
-| Thursday, July 2, 2026    | GANs                                                                 | Amir Hossein     | 9    |
-| Thursday, July 9, 2026    | Sample Project from Last Year                                        |                  | 10   |
-| Thursday, July 16, 2026   | VAE and Q-VAE                                                        | Amir Hossein     | 11   |
-| Thursday, July 23, 2026   | Score-based Diffusion                                                | Mohammadreza     | 12   |
-| Thursday, July 30, 2026   | Midterm                                                              |                  | 13   |
-| Thursday, August 6, 2026  | DDPM and DDIM                                                        | Mohammadreza     | 14   |
-| Thursday, August 13, 2026 | Reserved                                                             |                  | 15   |
-
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #e6e6e6;">
+      <th style="border: 1px solid #000; padding: 8px 24px; text-align: left;">Date</th>
+      <th style="border: 1px solid #000; padding: 8px 24px; text-align: left;">Topic</th>
+      <th style="border: 1px solid #000; padding: 8px 24px; text-align: center;">Tutorial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, May 14, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>PyTorch Overview -- General DL Programming Pipelines -- Tokenization and Embedding</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, May 21, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Transformers -- Language Models -- BERT</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, May 28, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Generative vs Discriminative Learning</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, June 4, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Autoregressive Models</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, June 11, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Energy-based Models</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+    </tr>
+    <tr style="background-color: #f7ddce;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, June 18, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Midterm</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"></td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, June 25, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Normalizing Flow</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, July 2, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>GANs</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+    </tr>
+    <tr style="background-color: #f7ddce;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, July 9, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Sample Project from Last Year</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"></td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, July 16, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>VAE and Q-VAE</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, July 23, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Score-based Diffusion</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+    </tr>
+    <tr style="background-color: #f7ddce;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, July 30, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Midterm</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"></td>
+    </tr>
+    <tr style="background-color: #d9f0d0;">
+      <td style="border: 1px solid #000; padding: 8px 24px;">Thursday, August 6, 2026</td>
+      <td style="border: 1px solid #000; padding: 8px 24px;"><em>DDPM and DDIM</em></td>
+      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- <table style="border-collapse: collapse; width: 100%;">
     <tr style="background-color: white;">
