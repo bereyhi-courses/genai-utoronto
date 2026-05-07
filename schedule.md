@@ -3,6 +3,143 @@ layout: schedule
 title: Schedule
 permalink: /schedule/
 ---
+# Overall Course Calendar 
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #e6e6e6;">
+      <th style="border: 1px solid #000; padding: 8px 20px;">Week</th>
+      <th style="border: 1px solid #000; padding: 8px 20px;">Lecture</th>
+      <th style="border: 1px solid #000; padding: 8px 20px;">Topic</th>
+      <th style="border: 1px solid #000; padding: 8px 20px;">Assignment</th>
+      <th style="border: 1px solid #000; padding: 8px 20px;">Project</th>
+      <th style="border: 1px solid #000; padding: 8px 20px;">Exam</th>
+      <th style="border: 1px solid #000; padding: 8px 20px;">Submission</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">1</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">05-May-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Language Modeling</em></td>
+      <td style="border: 1px solid #000;"></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">2</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">12-May-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>LLMs</em></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 1</td>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">3</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">19-May-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Fundamentals of Generative Learning</em></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr style="background-color: #d9ead3;">
+      <td style="border: 1px solid #000; padding: 8px 20px;">4</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">26-May-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Guest Lecture</em></td>
+      <td></td><td></td><td></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 1</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">5</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">02-Jun-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Explicit Generation: Autoregressive Models</em></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 2</td>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">6</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">09-Jun-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Explicit Generation: Energy-based Models</em></td>
+      <td></td>
+      <td style="border: 1px solid #000; background-color: #d9ead3; padding: 8px 20px;">Proposal</td>
+      <td></td>
+      <td style="border: 1px solid #000; background-color: #d9ead3; padding: 8px 20px;">Proposal</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">7</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">16-Jun-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Explicit Generation: Normalizing Flow</em></td>
+      <td></td><td></td>
+      <td style="border: 1px solid #000; background-color: #ead1dc; padding: 8px 20px;">Midterm 1</td>
+      <td></td>
+    </tr>
+    <tr style="background-color: #d9ead3;">
+      <td style="border: 1px solid #000; padding: 8px 20px;">8</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">23-Jun-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Generative Adversarial Networks</em></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 3</td>
+      <td></td><td></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 2</td>
+    </tr>
+    <tr style="background-color: #f4cccc;">
+      <td style="border: 1px solid #000; padding: 8px 20px;">9</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">30-Jun-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px; color: red;"><em>Holiday</em></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">10</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">07-Jul-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Variational Inference and VAEs - Part I</em></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 4</td>
+      <td></td><td></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 3</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">11</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">14-Jul-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Variational Autoencoding - Part II</em></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr style="background-color: #d9ead3;">
+      <td style="border: 1px solid #000; padding: 8px 20px;">12</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">21-Jul-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Diffusion Models - Part I: Score-based Diffusion</em></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 5</td>
+      <td></td><td></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 4</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">13</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">28-Jul-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Diffusion Models - Part II: DPMs</em></td>
+      <td></td><td></td>
+      <td style="border: 1px solid #000; background-color: #ead1dc; padding: 8px 20px;">Midterm 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px 20px;">14</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">04-Aug-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Multimodality and Conditioning</em></td>
+      <td></td><td></td><td></td>
+      <td style="border: 1px solid #000; background-color: #d9e6f2; padding: 8px 20px;">Assgn 5</td>
+    </tr>
+    <tr style="background-color: #d9ead3;">
+      <td style="border: 1px solid #000; padding: 8px 20px;">15</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">11-Aug-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><em>Final Lecture - Reserved</em></td>
+      <td></td>
+      <td style="border: 1px solid #000; background-color: #d9ead3; padding: 8px 20px;">Presentation</td>
+      <td></td>
+      <td style="border: 1px solid #000; background-color: #d9ead3; padding: 8px 20px;">Presentation</td>
+    </tr>
+    <tr style="background-color: #d9ead3;">
+      <td style="border: 1px solid #000; padding: 8px 20px;">16</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;">18-Aug-26</td>
+      <td style="border: 1px solid #000; padding: 8px 20px;"><span style="color:red;"><em>No Lecture</em></span> - Reserved</td>
+      <td></td>
+      <td style="border: 1px solid #000; background-color: #d9ead3; padding: 8px 20px;">Code and Paper</td>
+      <td></td>
+      <td style="border: 1px solid #000; background-color: #d9ead3; padding: 8px 20px;">Code and Paper</td>
+    </tr>
+  </tbody>
+</table>
+
 # Tutorial Schedule
 
 <table style="border-collapse: collapse; width: 100%;">
