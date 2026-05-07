@@ -211,6 +211,7 @@ permalink: /schedule/
 
 # Tutorial Schedule
 
+<p>
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr style="background-color: #e6e6e6;">
@@ -287,6 +288,7 @@ permalink: /schedule/
     </tr>
   </tbody>
 </table>
+</p>
 
 <!-- <table style="border-collapse: collapse; width: 100%;">
     <tr style="background-color: white;">
