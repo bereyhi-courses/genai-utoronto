@@ -6,7 +6,7 @@ tldr: "LMs - Part 1"
 stat: lec
 # for lectures stat: lec
 description: We start with LMs and understand how we can feed a text into it by doing the so-called "Tokenization" and "Embedding". We build simple language model called Bi-Gram and understand its limitations. This motivates us to build a context-aware LM. We look into the basic context-aware LM design via RNNs. Unfortunately, the audio recording is not good due to the issue with the recording device. 
-videoID: 8EeD0Cq1hBQ
+videoID: 8EeD0Cq1hBQ 
 hide_from_announcments: false
 ---
 **Lecture Notes:**
