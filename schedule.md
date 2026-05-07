@@ -11,10 +11,10 @@ permalink: /schedule/
     width: 100%;
   }
 
-  th, td {
+  /* th, td {
     border: 1px solid #000;
     padding: 8px 20px;
-  }
+  } */
 
   th {
     background-color: #e6e6e6;
