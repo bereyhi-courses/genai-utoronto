@@ -3,14 +3,15 @@ layout: schedule
 title: Schedule
 permalink: /schedule/
 ---
+
+<br><br>
 # Overall Course Calendar 
 
 
 <table style="border-collapse: collapse; width: 100%;">
-  <thead>
+  <thead style="text-align: left;">
     <tr>
       <th>Week</th>
-      <th>Lecture</th>
       <th>Topic</th>
       <th>Assignment</th>
       <th>Project</th>
@@ -21,7 +22,6 @@ permalink: /schedule/
   <tbody>
     <tr>
       <td>1</td>
-      <td>May 05</td>
       <td class="topic">Language Modeling</td>
       <td></td>
       <td></td>
@@ -30,7 +30,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>2</td>
-      <td>May 12</td>
       <td class="topic">LLMs</td>
       <td class="blue">Assgn 1</td>
       <td></td>
@@ -39,7 +38,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>3</td>
-      <td>May 19</td>
       <td class="topic">Fundamentals of Generative Learning</td>
       <td></td>
       <td></td>
@@ -48,7 +46,6 @@ permalink: /schedule/
     </tr>
     <tr class="green">
       <td>4</td>
-      <td>May 26</td>
       <td class="topic">Guest Lecture</td>
       <td></td>
       <td></td>
@@ -57,7 +54,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>5</td>
-      <td>June 02</td>
       <td class="topic">Autoregressive Models</td>
       <td class="blue">Assgn 2</td>
       <td></td>
@@ -66,7 +62,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>6</td>
-      <td>June 09</td>
       <td class="topic">Energy-based Models</td>
       <td></td>
       <td class="green">Proposal</td>
@@ -75,7 +70,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>7</td>
-      <td>June 16</td>
       <td class="topic">Normalizing Flow</td>
       <td></td>
       <td></td>
@@ -84,7 +78,6 @@ permalink: /schedule/
     </tr>
     <tr class="green">
       <td>8</td>
-      <td>June 23</td>
       <td class="topic">Generative Adversarial Networks</td>
       <td class="blue">Assgn 3</td>
       <td></td>
@@ -93,7 +86,6 @@ permalink: /schedule/
     </tr>
     <tr class="peach">
       <td>9</td>
-      <td>June 30</td>
       <td class="topic red">Holiday</td>
       <td></td>
       <td></td>
@@ -102,7 +94,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>10</td>
-      <td>July 07</td>
       <td class="topic">Variational Inference</td>
       <td class="blue">Assgn 4</td>
       <td></td>
@@ -111,7 +102,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>11</td>
-      <td>July 14</td>
       <td class="topic">VAEs</td>
       <td></td>
       <td></td>
@@ -120,7 +110,6 @@ permalink: /schedule/
     </tr>
     <tr class="green">
       <td>12</td>
-      <td>July 21</td>
       <td class="topic">Score-based Diffusion</td>
       <td class="blue">Assgn 5</td>
       <td></td>
@@ -129,7 +118,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>13</td>
-      <td>July 28</td>
       <td class="topic">DPMs</td>
       <td></td>
       <td></td>
@@ -138,7 +126,6 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>14</td>
-      <td>August 04</td>
       <td class="topic">Multimodality and Conditioning</td>
       <td></td>
       <td></td>
@@ -147,7 +134,6 @@ permalink: /schedule/
     </tr>
     <tr class="green">
       <td>15</td>
-      <td>August 11</td>
       <td class="topic">Final Lecture - Reserved</td>
       <td></td>
       <td class="green">Presentation</td>
@@ -156,7 +142,6 @@ permalink: /schedule/
     </tr>
     <tr class="green">
       <td>16</td>
-      <td>August 18</td>
       <td><span class="topic red">No Lecture</span> - Reserved</td>
       <td></td>
       <td class="green">Code and Paper</td>
@@ -165,7 +150,7 @@ permalink: /schedule/
     </tr>
   </tbody>
 </table>
-
+<br><br><br>
 
 
 
@@ -173,7 +158,7 @@ permalink: /schedule/
 # Tutorial Schedule
 
 <table style="border-collapse: collapse; width: 100%;">
-  <thead>
+  <thead style="text-align: left;">
     <tr>
       <th>Date</th>
       <th>Topic</th>
