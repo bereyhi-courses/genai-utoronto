@@ -214,76 +214,76 @@ permalink: /schedule/
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr style="background-color: #e6e6e6;">
-      <th style="border: 1px solid #000; padding: 8px 24px; text-align: left;">Date</th>
-      <th style="border: 1px solid #000; padding: 8px 24px; text-align: left;">Topic</th>
-      <th style="border: 1px solid #000; padding: 8px 24px; text-align: center;">Tutorial</th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th style="text-align: center;">Tutorial</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">May 14</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>PyTorch Overview -- Tokenization and Embedding</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+      <td>May 14</td>
+      <td><em>PyTorch Overview -- Tokenization and Embedding</em></td>
+      <td>Amir Hossein</td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">May 21</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Transformer-based Language Models </em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+      <td>May 21</td>
+      <td><em>Transformer-based Language Models </em></td>
+      <td>Amir Hossein</td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">May 28</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Generative vs Discriminative Learning</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+      <td>May 28</td>
+      <td><em>Generative vs Discriminative Learning</em></td>
+      <td>Mohammadreza</td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">June 4</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Autoregressive Models</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+      <td>June 4</td>
+      <td><em>Autoregressive Models</em></td>
+      <td>Mohammadreza</td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">June 11</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Energy-based Models</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+      <td>June 11</td>
+      <td><em>Energy-based Models</em></td>
+      <td>Amir Hossein</td>
     </tr>
     <tr style="background-color: #f7ddce;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">June 18</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Midterm</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"></td>
+      <td>June 18</td>
+      <td><em>Midterm</em></td>
+      <td></td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">June 25</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Normalizing Flow</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+      <td>June 25</td>
+      <td><em>Normalizing Flow</em></td>
+      <td>Mohammadreza</td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">July 2</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>GAN</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+      <td>July 2</td>
+      <td><em>GAN</em></td>
+      <td>Amir Hossein</td>
     </tr>
     <tr style="background-color: #f7ddce;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">July 9</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Sample Project</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"></td>
+      <td>July 9</td>
+      <td><em>Sample Project</em></td>
+      <td></td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">July 16</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>VAE and Q-VAE</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px; background-color: #d9eaf7;">Amir Hossein</td>
+      <td>July 16</td>
+      <td><em>VAE and Q-VAE</em></td>
+      <td>Amir Hossein</td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">July 23</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Score-based Diffusion</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+      <td>July 23</td>
+      <td><em>Score-based Diffusion</em></td>
+      <td>Mohammadreza</td>
     </tr>
     <tr style="background-color: #f7ddce;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">July 30</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>Midterm</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"></td>
+      <td>July 30</td>
+      <td><em>Midterm</em></td>
+      <td></td>
     </tr>
     <tr style="background-color: #d9f0d0;">
-      <td style="border: 1px solid #000; padding: 8px 24px;">August 6</td>
-      <td style="border: 1px solid #000; padding: 8px 24px;"><em>DDPM and DDIM</em></td>
-      <td style="border: 1px solid #000; padding: 8px 24px;">Mohammadreza</td>
+      <td>August 6</td>
+      <td><em>DDPM and DDIM</em></td>
+      <td>Mohammadreza</td>
     </tr>
   </tbody>
 </table>
