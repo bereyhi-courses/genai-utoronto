@@ -97,7 +97,7 @@ permalink: /schedule/
     <tr>
       <td>5</td>
       <td>June 02</td>
-      <td class="topic">Explicit Generation: Autoregressive Models</td>
+      <td class="topic">Autoregressive Models</td>
       <td class="blue">Assgn 2</td>
       <td></td>
       <td></td>
@@ -106,7 +106,7 @@ permalink: /schedule/
     <tr>
       <td>6</td>
       <td>June 09</td>
-      <td class="topic">Explicit Generation: Energy-based Models</td>
+      <td class="topic">Energy-based Models</td>
       <td></td>
       <td class="green">Proposal</td>
       <td></td>
@@ -115,10 +115,10 @@ permalink: /schedule/
     <tr>
       <td>7</td>
       <td>June 16</td>
-      <td class="topic">Explicit Generation: Normalizing Flow</td>
+      <td class="topic">Normalizing Flow</td>
       <td></td>
       <td></td>
-      <td class="pink">Midterm 1</td>
+      <td class="pink">Exam 1</td>
       <td></td>
     </tr>
     <tr class="green">
@@ -142,7 +142,7 @@ permalink: /schedule/
     <tr>
       <td>10</td>
       <td>July 07</td>
-      <td class="topic">Variational Inference and VAEs - Part I</td>
+      <td class="topic">Variational Inference</td>
       <td class="blue">Assgn 4</td>
       <td></td>
       <td></td>
@@ -151,7 +151,7 @@ permalink: /schedule/
     <tr>
       <td>11</td>
       <td>July 14</td>
-      <td class="topic">Variational Autoencoding - Part II</td>
+      <td class="topic">VAEs</td>
       <td></td>
       <td></td>
       <td></td>
@@ -160,7 +160,7 @@ permalink: /schedule/
     <tr class="green">
       <td>12</td>
       <td>July 21</td>
-      <td class="topic">Diffusion Models - Part I: Score-based Diffusion</td>
+      <td class="topic">Score-based Diffusion</td>
       <td class="blue">Assgn 5</td>
       <td></td>
       <td></td>
@@ -169,10 +169,10 @@ permalink: /schedule/
     <tr>
       <td>13</td>
       <td>July 28</td>
-      <td class="topic">Diffusion Models - Part II: DPMs</td>
+      <td class="topic">DPMs</td>
       <td></td>
       <td></td>
-      <td class="pink">Midterm 2</td>
+      <td class="pink">Exam 2</td>
       <td></td>
     </tr>
     <tr>
