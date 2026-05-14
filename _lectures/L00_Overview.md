@@ -6,7 +6,7 @@ tldr: "Overview"
 stat: lec
 # for lectures stat: lec
 description: This lecture gives an overview on the course structure and the logistics. Unfortunately, the audio recording is not good due to the issue with the recording device. 
-videoID: 8EeD0Cq1hBQ? 
+videoID: sWefvYJW6Og
 hide_from_announcments: false
 ---
 **Lecture Notes:**
