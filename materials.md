@@ -50,7 +50,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
-<!-- * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): PyTorch Overview, Batch Training, Embedding, and Tokenization, by __Amir Hossein Mobasheri__ -->
+* [Video of Tutorial 1](https://play.library.utoronto.ca/watch/fc9e88ffd230a24ca42f65013dc4a73d) -- Programming Overview by __Amir Hossein Mobasheri__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb)
 <!-- * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_2.ipynb): Transformers and Large Language Models, by __Amir Hossein Mobasheri__ -->
 <!-- * [Tutorial 3]({{site.baseurl}}/assets/Tutorials/Tutorial_3.ipynb) - [Video](https://play.library.utoronto.ca/watch/9ab3f268d96cd38160a85534184278b5): Autoregressive Models, by __Mohammadreza Safavi__ -->
 <!-- * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_4.ipynb) - [Video](https://play.library.utoronto.ca/watch/33c6022fad39c376c5fca9615e42505d): EBMs, by __Amir Hossein Mobasheri__ -->
