@@ -14,12 +14,12 @@ Building AI Supercomputers on Google Cloud
 Discover how modern AI supercomputers are built from the silicon up. This lecture explores the architecture of Google's TPUs, how the JAX compiler seamlessly scales math across thousands of chips, and the Kubernetes orchestration required to manage it all.
 
 ### Bio:
-<div class="image--cover-container">
+<!-- <div class="image--cover-container">
           <img src="{{site.baseurl}/_images/pp/erik.jpg}" class="image--cover">
           <p><a href="{https://www.linkedin.com/in/erik-saarenvirta/}">{{Erik Saarenvirta}}</a>
           is a Solutions Architect at Google specializing in high-performance computing (HPC), where he helps organizations design and scale their production AI.
           </p>
-        </div>
+</div> -->
 
 <!-- [Erik Saarenvirta](https://www.linkedin.com/in/erik-saarenvirta/) is a Solutions Architect at Google specializing in high-performance computing (HPC), where he helps organizations design and scale their production AI.infrastructure workloads -->
 
