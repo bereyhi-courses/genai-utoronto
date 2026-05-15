@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2026-05-12T18:00:00-4:00
-title: "Lecture 6: Large Language Models"
+date: 2026-05-12T18:00:00
+title: "Lecture 3: Large Language Models"
 tldr: "LLMs"
 stat: lec
 # for lectures stat: lec
-description: We study LLMs which are Large LMs trained on large corpora. We see how they can be evaluated, fine-tuned, and/or deployed via prompt design. 
+description: We study LLMs which are Large LMs trained on large corpora. We see how they can be evaluated, fine-tuned, and deployed via prompt design. 
 videoID: 3931lLpmXuM 
 hide_from_announcments: false
 ---
