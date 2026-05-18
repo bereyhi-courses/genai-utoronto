@@ -19,7 +19,7 @@ hide_from_announcments: false
 * [BPE for Tokenization](https://arxiv.org/abs/1508.07909): Paper _Neural machine translation of rare words with subword units_ by _Rico Sennrich, Barry Haddow, and Alexandra Birch_ presented in ACL 2016 that adapted BPE for NLP
 * [LMs](https://www.bishopbook.com/): Chapter 12 of [[BB]](https://www.bishopbook.com/) __Section 12.2__
 * [N-Gram LMs](https://web.stanford.edu/~jurafsky/slp3/3.pdf): Chapter 3 of _Speech and Language Processing;_ __Section 3.1__ on N-gram LM
-* [Maximum Likelihood](https://www.bishopbook.com/): Chapter 2 of [[BB]](https://www.bishopbook.com/) __Sections 12.1 -- 12.3__
+* [Maximum Likelihood](https://www.bishopbook.com/): Chapter 2 of [[BB]](https://www.bishopbook.com/) __Sections 2.1 -- 2.3__
 * [Recurrent LMs](https://web.stanford.edu/~jurafsky/slp3/8.pdf): Chapter 8 of [[JM]](https://web.stanford.edu/~jurafsky/slp3/)
 * [LSTM LMs](https://arxiv.org/abs/1708.02182): Paper _Regularizing and Optimizing LSTM Language Models_ by _Stephen Merity, Nitish Shirish Keskar, and Richard Socher_ published in ICLR 2018 enabling LSTMs to perform strongly on word-level language modeling
 * [High-Rank Recurrent LMs](https://arxiv.org/abs/1711.03953): Paper _Breaking the Softmax Bottleneck: A High-Rank RNN Language Model_ by _Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, and William W. Cohen_ presented at ICLR 2018 proposing Mixture of Softmaxes (MoS) and achieving state-of-the-art results at the time
