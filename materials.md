@@ -14,10 +14,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Transformer-based LMs
 * [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Large Language Models
 
-<!-- ### Chapter 2: Data Generation Problem
-* [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Basic Definitions
+### Chapter 2: Fundamentals of Generative Modeling
+* [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Preliminaries
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Generative and Discriminative Learning
-* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Generative Modeling -->
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Generative Modeling
 
 <!-- ### Chapter 3: Data Generation by Explicit Distribution Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Distribution Learning
