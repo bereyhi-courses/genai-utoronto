@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-05-12T18:00:00
-title: "Lecture 3: Large Language Models"
+title: "Lecture 2 - Part 2/2: Large Language Models"
 tldr: "LLMs"
 stat: lec
 # for lectures stat: lec

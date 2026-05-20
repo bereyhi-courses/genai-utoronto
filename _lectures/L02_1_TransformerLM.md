@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-05-12T13:00:00
-title: "Lecture 2: Transformer-based Language Models"
+title: "Lecture 2 - Part 1/2: Transformer-based Language Models"
 tldr: "Transformer LMs"
 stat: lec
 # for lectures stat: lec
