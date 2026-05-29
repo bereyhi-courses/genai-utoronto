@@ -55,7 +55,7 @@ The tutorial notebooks can be accessed below.
 * [Video of Tutorial 3](https://play.library.utoronto.ca/watch/03c6f3f7b4c326690e93f98dd3373be3) -- Generative vs Discriminative Learning by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_3.zip)
 
 ## Guest Lectures
-* [Guest Lecture on May 26]({{site.baseurl}}/assets/Notes/Guest/GLec_May26.pdf): Building AI Supercomputers by __Erik Saarenvirta__
+* [Guest Lecture on May 26]({{site.baseurl}}/assets/Notes/Guest/GLec_May26.pdf): Building AI Supercomputers by __Erik Saarenvirta.__ You can watch the recordings here: [Part 1](https://play.library.utoronto.ca/watch/1943e01da34109071f2ba5404120639b) | [Part 2](https://play.library.utoronto.ca/watch/37741ced171e09348f9a06bc8091dc93)
 
 ## Book
 
