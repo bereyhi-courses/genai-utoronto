@@ -52,6 +52,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 The tutorial notebooks can be accessed below.
 * [Video of Tutorial 1](https://play.library.utoronto.ca/watch/fc9e88ffd230a24ca42f65013dc4a73d) -- Programming Overview by __Amir Hossein Mobasheri__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_1.zip)
 * [Video of Tutorial 2](https://play.library.utoronto.ca/watch/b76e1d12883bfa91901cba2ca8e32c1a) -- Transformer Based LMs by __Amir Hossein Mobasheri__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_2.zip)
+* [Video of Tutorial 3](https://play.library.utoronto.ca/watch/03c6f3f7b4c326690e93f98dd3373be3) -- TGenerative vs Discriminative Learning by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_3.zip)
+
+## Guest Lectures
+* [Guest Lecture on May 26]({{site.baseurl}}/assets/Notes/Guest/GLec_May26.pdf): Building AI Supercomputers by __Erik Saarenvirta__
 
 ## Book
 
