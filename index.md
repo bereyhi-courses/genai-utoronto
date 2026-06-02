@@ -16,10 +16,12 @@ Discover how modern AI supercomputers are built from the silicon up. This lectur
 
 ## Exam Schedules
 We will have two midterm exams held on
-* Thursday, June 18
-* Thursday, July 30
+* __Thursday, June 18__
+* __Thursday, July 30__
+
 The exams are given during Tutorial
 * We start at 1 PM in BA1160
+
 One double-sided cheat sheet is allowed. Please note that
 * The exams are 1 hour long
 * The questions are similar to the ones given in assignments, tutorials, and preparation exercises
