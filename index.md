@@ -14,6 +14,16 @@ Discover how modern AI supercomputers are built from the silicon up. This lectur
 ### Bio:
 [Erik Saarenvirta](https://www.linkedin.com/in/erik-saarenvirta/) is a Solutions Architect at Google specializing in high-performance computing (HPC), where he helps organizations design and scale their production AI.infrastructure workloads
 
+## Exam Schedules
+We will have two midterm exams held on
+* Thursday, June 18
+* Thursday, July 30
+The exams are given during Tutorial
+* We start at 1 PM in BA1160
+One double-sided cheat sheet is allowed. Please note that
+* The exams are 1 hour long
+* The questions are similar to the ones given in assignments, tutorials, and preparation exercises
+
 <!-- ## Final Project Submission and Presentation
 
 ### Final Presentations

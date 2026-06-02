@@ -33,11 +33,11 @@ assgn_txt: "This is the most important part: <em>there is no way to learn a topi
 
 exam_mark: 30%
 exam_desc: "exam"
-exam_txt: "We have two midterm exams in this semester. Each exam will ask two questions similar to assignments and practice questions shared with you. The exam evaluates the understanding of fundamental concepts. This exam will comprise 30% of the total mark."
+exam_txt: "We have two midterm exams in this semester. The exams are on <em>Thursday, June 18</em> and <em>Thursday, July 30.</em> Each exam will ask two questions similar to assignments, tutorials, and practice questions shared with you. The exam evaluates the understanding of fundamental concepts. This exam will comprise 30% of the total mark."
 
 project_mark: 30%
 project_desc: "open-ended"
-project_txt: "The course project procedure is illustrated in a seperate page. In a nutshell, the project will be in groups of 3. Each group selects a topic and work on the project through the semester and present its final result at the end in a report and a short presentation. The course project is the key evaluator and comprises 30% of the course work."
+project_txt: "The course project procedure is illustrated in a separate page. In a nutshell, the project will be in groups of 3. Each group selects a topic and work on the project through the semester and present its final result at the end in a report and a short presentation. The course project is the key evaluator and comprises 30% of the course work."
 
 
 baseurl: "/genai-utoronto" # the subpath of your site, e.g. /blog/
