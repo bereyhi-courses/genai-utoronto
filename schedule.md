@@ -73,7 +73,7 @@ permalink: /schedule/
       <td class="topic">Normalizing Flow</td>
       <td></td>
       <td></td>
-      <td>Exam 1 (Jun 18)</td>
+      <td>Exam 1 on <em>Jun 18</em></td>
       <td></td>
     </tr>
     <tr style="background-color: #cef3fd;">
@@ -121,7 +121,7 @@ permalink: /schedule/
       <td class="topic">DPMs</td>
       <td></td>
       <td></td>
-      <td>Exam 2 (Jul 30)</td>
+      <td>Exam 2 on <em>Jul 30</em></td>
       <td></td>
     </tr>
     <tr style="background-color: #cef3fd;">
