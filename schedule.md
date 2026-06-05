@@ -73,7 +73,7 @@ permalink: /schedule/
       <td class="topic">Normalizing Flow</td>
       <td></td>
       <td></td>
-      <td>Exam 1</td>
+      <td>Exam 1 (Jun 18)</td>
       <td></td>
     </tr>
     <tr style="background-color: #cef3fd;">
@@ -121,7 +121,7 @@ permalink: /schedule/
       <td class="topic">DPMs</td>
       <td></td>
       <td></td>
-      <td>Exam 2</td>
+      <td>Exam 2 (Jul 30)</td>
       <td></td>
     </tr>
     <tr style="background-color: #cef3fd;">
@@ -193,7 +193,7 @@ permalink: /schedule/
     </tr>
     <tr style="background-color: #FFCCCC;">
       <td>June 18</td>
-      <td><em>Midterm</em></td>
+      <td><em>Exam 1</em></td>
       <td></td>
     </tr>
     <tr style="background-color: #FFFFE0;">
@@ -223,7 +223,7 @@ permalink: /schedule/
     </tr>
     <tr style="background-color: #FFCCCC;">
       <td>July 30</td>
-      <td><em>Midterm</em></td>
+      <td><em>Exam 2</em></td>
       <td></td>
     </tr>
     <tr style="background-color: #ADD8E6">
