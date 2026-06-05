@@ -13,7 +13,7 @@ permalink: /project/
 The project topic should be defined, such that it covers __at least two topics covered in the course.__ The groups must __conduct background research, contribute to implementation, conduct enough experiments, and use their findings to draw a conclusion.__ The topic of the project can focus on a hands-on project and/or an interesting research study. Regardless of the topic of the project, the following steps should be addressed:
 
 1. Make a group of 3. Due to the course size, smaller group size is only accepted under __special circumstances.__ 
-2. Do your research and choose your topic by the end of __Week 6 (June 20).__ It is strongly suggested to choose _as soon as possible_ to get into the problem and start preliminaries.
+2. Do your research and choose your topic by the end of __Week 6 (June 12).__ It is strongly suggested to choose _as soon as possible_ to get into the problem and start preliminaries.
 3. You will be allocated to a TA, who could help you throughout the project.
 4. Present your final result by __Week 13 (second Week of August).__
 5. Deliver the paper and code by __Week 14 (third Week of August).__
