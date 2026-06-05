@@ -28,7 +28,7 @@ permalink: /schedule/
       <td></td>
       <td></td>
     </tr>
-    <tr style="background-color: #cef3fd;">
+    <tr style="background-color: #ADD8E6;">
       <td>2</td>
       <td class="topic">LLMs</td>
       <td class="blue">Assgn 1</td>
@@ -44,7 +44,7 @@ permalink: /schedule/
       <td></td>
       <td></td>
     </tr>
-    <tr style="background-color: #f6e1bf;">
+    <tr style="background-color: #FFCCCC;">
       <td>4</td>
       <td class="topic">Guest Lecture</td>
       <td></td>
@@ -60,7 +60,7 @@ permalink: /schedule/
       <td></td>
       <td></td>
     </tr>
-    <tr style="background-color: #cef3fd;">
+    <tr style="background-color: #ADD8E6;">
       <td>6</td>
       <td class="topic">Energy-based Models</td>
       <td></td>
@@ -76,7 +76,7 @@ permalink: /schedule/
       <td>Exam 1 on <em>Jun 18</em></td>
       <td></td>
     </tr>
-    <tr style="background-color: #cef3fd;">
+    <tr style="background-color: #ADD8E6;">
       <td>8</td>
       <td class="topic">Generative Adversarial Networks</td>
       <td>Assgn 3</td>
@@ -92,7 +92,7 @@ permalink: /schedule/
       <td></td>
       <td></td>
     </tr>
-    <tr style="background-color: #cef3fd;">
+    <tr style="background-color: #ADD8E6;">
       <td>10</td>
       <td class="topic">Variational Inference</td>
       <td>Assgn 4</td>
@@ -108,7 +108,7 @@ permalink: /schedule/
       <td></td>
       <td></td>
     </tr>
-    <tr style="background-color: #cef3fd;">
+    <tr style="background-color: #ADD8E6;">
       <td>12</td>
       <td class="topic">Score-based Diffusion</td>
       <td>Assgn 5</td>
@@ -124,7 +124,7 @@ permalink: /schedule/
       <td>Exam 2 on <em>Jul 30</em></td>
       <td></td>
     </tr>
-    <tr style="background-color: #cef3fd;">
+    <tr style="background-color: #ADD8E6;">
       <td>14</td>
       <td class="topic">Multimodality and Conditioning</td>
       <td></td>
@@ -132,7 +132,7 @@ permalink: /schedule/
       <td></td>
       <td>Assgn 5</td>
     </tr>
-    <tr style="background-color: #edf5b6;">
+    <tr style="background-color: #FFFFE0;">
       <td>15</td>
       <td class="topic">Final Lecture - Reserved</td>
       <td></td>
@@ -140,7 +140,7 @@ permalink: /schedule/
       <td></td>
       <td>Presentation</td>
     </tr>
-    <tr style="background-color: #edf5b6;">
+    <tr style="background-color: #FFFFE0;">
       <td>16</td>
       <td><span class="topic red">No Lecture</span> - Reserved</td>
       <td></td>
