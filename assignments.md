@@ -24,6 +24,7 @@ permalink: /assignments/
 - [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _June 03, 2026_ 
 - Deadline is on __June 24, 2026__ at __11:30 PM EST__
 - No late submission is accepted
+- [Solution of Practice Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) have been posted on Quercus in _June 9, 2026_
 
 <!-- ### Assignment 3: Implicit Methods for Generation
 - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _July 21, 2025_ 
