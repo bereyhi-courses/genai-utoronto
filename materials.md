@@ -22,6 +22,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 3: Data Generation by Explicit Distribution Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): Preliminaries
 * [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Autoregressive Modeles
+* [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Energy-Based Models 
 
 
 <!-- ### Chapter 4: Generative Adversarial Networks
