@@ -224,6 +224,7 @@ You may review the idea of transformers in the following resources:
 * [Real NVP](https://arxiv.org/abs/1410.8516) Paper _Density estimation using Real NVP_ published by _L. Dinh et al._ at ICLR in 2017 proposing the Real NVP model
 * [Glow](https://arxiv.org/abs/1410.8516) Paper _Glow: Generative Flow with Invertible 1x1 Convolutions_ published by _D. Kingma and P. Dhariwal_ at NeurIPS in 2018 proposing the Glow model
 * [Flow++](https://arxiv.org/abs/1410.8516) Paper _Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design_ published by _J. Ho et al._ at ICML in 2019 proposing the Flow++ model
+* [Flow Matching](https://arxiv.org/abs/2210.02747) Paper _Flow Matching for Generative Modeling_ published by _Y. Lipman et al._ at ICLR 2023 
 
 ### Chapter 4: Generative Adversarial Networks
 
