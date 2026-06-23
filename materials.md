@@ -26,11 +26,11 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Flow-Based Models 
 
 
-<!-- ### Chapter 4: Generative Adversarial Networks
+### Chapter 4: Generative Adversarial Networks
 * [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Vanilla GAN - Generating by Min-Max Game
 * [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Implicit MLE Learning by GAN
 * [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Wasserstein GAN
-* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Sample GAN Architectures and Wrap-up -->
+* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Sample GAN Architectures
 
 <!-- ### Chapter 5: Variational Autoencoders
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Probabilistic Latent-Space Generation
