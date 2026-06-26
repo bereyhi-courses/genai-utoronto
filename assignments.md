@@ -26,6 +26,12 @@ permalink: /assignments/
 - No late submission is accepted
 - [Solution of Practice Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) have been posted on Quercus in _June 9, 2026_
 
+### Assignment 3: Generative Adversarial Networks
+- [Assignment 3]({{site.baseurl}}/assignments/03_assignment3) has been posted on _June 26, 2026_ 
+- Deadline is on __July 09, 2026__ at __11:30 PM EST__
+- No late submission is accepted
+
+
 <!-- ### Assignment 3: Implicit Methods for Generation
 - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _July 21, 2025_ 
 - Deadline is on __August 4, 2025__ at __11:59 PM EST__

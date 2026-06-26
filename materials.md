@@ -56,6 +56,9 @@ The tutorial notebooks can be accessed below.
 * [Video of Tutorial 4](https://play.library.utoronto.ca/watch/f13fe8f9d5089b7c289adfabb508a08f) -- Autoregressive Models by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_4.zip)
 * [Video of Tutorial 5](https://play.library.utoronto.ca/watch/39d3c526bde60753716ec63dc5d6b94b) -- Energy-based Models by __Amir Hossein Mobasheri__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_5.zip)
 
+## Project Demo
+* [Video of Project Demo](https://play.library.utoronto.ca/watch/7363b62458ea99935fe8b528dac16664) -- Project Demo by __Cassie Li__ given on June 25, 2026
+
 ## Guest Lectures
 * [Guest Lecture on May 26]({{site.baseurl}}/assets/Notes/Guest/GLec_May26.pdf): Building AI Supercomputers by __Erik Saarenvirta.__ You can watch the recordings here: [Part 1](https://play.library.utoronto.ca/watch/1943e01da34109071f2ba5404120639b) | [Part 2](https://play.library.utoronto.ca/watch/37741ced171e09348f9a06bc8091dc93)
 
