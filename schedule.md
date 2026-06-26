@@ -201,15 +201,15 @@ permalink: /schedule/
       <td><em>Sample Project</em></td>
       <td>Cassie</td>
     </tr>
-    <tr style="background-color: #d3f2d3;">
+    <tr style="background-color: #FFCCCC;">
       <td>July 2</td>
-      <td><em>Normalizing Flow</em></td>
-      <td>Mohammadreza</td>
+      <td><em>Holiday</em></td>
+      <td></td>
     </tr>
     <tr style="background-color: #ADD8E6;">
       <td>July 9</td>
-      <td><em>GAN</em></td>
-      <td>Amir Hossein</td>
+      <td><em>Normalizing Flow and GAN</em></td>
+      <td>Mohammadreza</td>
     </tr>
     <tr style="background-color: #d3f2d3;">
       <td>July 16</td>
