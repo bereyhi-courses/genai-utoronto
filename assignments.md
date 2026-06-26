@@ -25,6 +25,7 @@ permalink: /assignments/
 - Deadline is on __June 24, 2026__ at __11:30 PM EST__
 - No late submission is accepted
 - [Solution of Practice Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) have been posted on Quercus in _June 9, 2026_
+- [Solution of Assigned Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) have been posted on Quercus in _June 26, 2026_
 
 ### Assignment 3: Generative Adversarial Networks
 - [Assignment 3]({{site.baseurl}}/assignments/03_assignment3) has been posted on _June 26, 2026_ 
