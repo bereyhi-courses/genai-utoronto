@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-06-19T18:00:00-4:00
+date: 2026-06-23T15:00:00
 title: "Lecture 7 - Part 2/2: Wasserstein GAN"
 tldr: "GANs - Part II"
 stat: lec
