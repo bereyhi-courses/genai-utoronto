@@ -32,11 +32,10 @@ permalink: /assignments/
 - Deadline is on __July 09, 2026__ at __11:30 PM EST__
 - No late submission is accepted
 
-
-<!-- ### Assignment 3: Implicit Methods for Generation
-- [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _July 21, 2025_ 
-- Deadline is on __August 4, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day -->
+### Assignment 4: Variational Inference and VAEs
+- [Assignment 3]({{site.baseurl}}/assignments/04_assignment4) has been posted on _July 10, 2026_ 
+- Deadline is on __July 23, 2026__ at __11:30 PM EST__
+- No late submission is accepted
 
 ## How to Submit
 We use [Crowdmark](https://crowdmark.com/), which has an easier interface and makes the chance of formatting mistakes less. When submitting, please make sure to follow the instructions below. Note that these instructions are __very important__ for correction and investigation of your submissions. Deviation from these instructions could lead to up to __10% deduction (per item).__

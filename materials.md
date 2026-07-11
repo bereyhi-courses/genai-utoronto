@@ -55,6 +55,7 @@ The tutorial notebooks can be accessed below.
 * [Video of Tutorial 3](https://play.library.utoronto.ca/watch/03c6f3f7b4c326690e93f98dd3373be3) -- Generative vs Discriminative Learning by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_3.zip)
 * [Video of Tutorial 4](https://play.library.utoronto.ca/watch/f13fe8f9d5089b7c289adfabb508a08f) -- Autoregressive Models by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_4.zip)
 * [Video of Tutorial 5](https://play.library.utoronto.ca/watch/39d3c526bde60753716ec63dc5d6b94b) -- Energy-based Models by __Amir Hossein Mobasheri__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_5.zip)
+* [Video of Tutorial 6](https://play.library.utoronto.ca/watch/a1f2ce84d9f34385099e8e163e2b2ab7) -- Flow-based Models and GANs by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_6.zip)
 
 ## Project Demo
 * [Video of Project Demo](https://play.library.utoronto.ca/watch/7363b62458ea99935fe8b528dac16664) -- Project Demo by __Cassie Li__ given on June 25, 2026
