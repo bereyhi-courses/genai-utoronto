@@ -33,7 +33,7 @@ permalink: /assignments/
 - No late submission is accepted
 
 ### Assignment 4: Variational Inference and VAEs
-- [Assignment 3]({{site.baseurl}}/assignments/04_assignment4) has been posted on _July 10, 2026_ 
+- [Assignment 4]({{site.baseurl}}/assignments/04_assignment4) has been posted on _July 10, 2026_ 
 - Deadline is on __July 23, 2026__ at __11:30 PM EST__
 - No late submission is accepted
 
