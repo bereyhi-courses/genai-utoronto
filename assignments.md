@@ -18,19 +18,21 @@ permalink: /assignments/
 - [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _May 14, 2026_ 
 - Deadline is on __May 28, 2026__ at __11:30 PM EST__
 - No late submission is accepted
-- [Solution of Assignment 1](https://q.utoronto.ca/courses/436032/modules#module_1351609) have been posted on Quercus in _June 3, 2026_
+- [Solution of Assignment 1](https://q.utoronto.ca/courses/436032/modules#module_1351609) has been posted on Quercus in _June 3, 2026_
 
 ### Assignment 2: Explicit Generative Models
 - [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _June 03, 2026_ 
 - Deadline is on __June 24, 2026__ at __11:30 PM EST__
 - No late submission is accepted
-- [Solution of Practice Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) have been posted on Quercus in _June 9, 2026_
-- [Solution of Assigned Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) have been posted on Quercus in _June 26, 2026_
+- [Solution of Practice Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) has been posted on Quercus in _June 9, 2026_
+- [Solution of Assigned Questions in Assignment 2](https://q.utoronto.ca/courses/436032/modules#module_1352713) has been posted on Quercus in _June 26, 2026_
 
 ### Assignment 3: Generative Adversarial Networks
 - [Assignment 3]({{site.baseurl}}/assignments/03_assignment3) has been posted on _June 26, 2026_ 
 - Deadline is on __July 09, 2026__ at __11:30 PM EST__
 - No late submission is accepted
+- [Solution of Assignment 3](https://q.utoronto.ca/courses/436032/modules#module_1351609) has been posted on Quercus in _July 15, 2026_
+
 
 ### Assignment 4: Variational Inference and VAEs
 - [Assignment 4]({{site.baseurl}}/assignments/04_assignment4) has been posted on _July 10, 2026_ 

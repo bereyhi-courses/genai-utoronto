@@ -6,7 +6,7 @@ tldr: "VAE - Part I"
 stat: lec
 # for lectures stat: lec
 description: In this lecture, we discuss VAE architecture and see how we could use VI framework to build an AE architecture for generation. We learn how the Encoder and Decoder of a VAE look like and discuss how we can define a risk function out of the ELBO to implicitly maximize the likelihood in VAEs.
-videoID:  
+videoID: 5DmITQbQk3Q
 hide_from_announcments: false
 ---
 **Lecture Notes:**
