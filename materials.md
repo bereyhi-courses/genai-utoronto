@@ -38,12 +38,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec3.pdf): Variational Autoencoding
 * [Section 4]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec4.pdf): Regularizing VAEs and Vector Quantized VAE
 
-<!-- ### Chapter 6: Diffusion Models
+### Chapter 6: Diffusion Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Learning by Langevin Dynamics
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): Diffusion Score Matching
-* [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Probabilistic Diffusion
-* [Section 4]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec4.pdf): DPM, DDPM and DDIM
-* [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Know Diffusion Models -->
+
 
 <!-- ### Chapter 7: Multimodality and Conditional Generation
 * [Handouts]({{site.baseurl}}/assets/Notes/CH7/CH7.pdf): All sections included in a single file -->
