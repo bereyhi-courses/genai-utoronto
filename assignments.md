@@ -33,10 +33,14 @@ permalink: /assignments/
 - No late submission is accepted
 - [Solution of Assignment 3](https://q.utoronto.ca/courses/436032/modules#module_1351609) has been posted on Quercus in _July 15, 2026_
 
-
 ### Assignment 4: Variational Inference and VAEs
 - [Assignment 4]({{site.baseurl}}/assignments/04_assignment4) has been posted on _July 10, 2026_ 
 - Deadline is on __July 23, 2026__ at __11:30 PM EST__
+- No late submission is accepted
+
+### Assignment 5: Diffusion Models
+- [Assignment 5]({{site.baseurl}}/assignments/05_assignment5) has been posted on _July 24, 2026_ 
+- Deadline is on __August 06, 2026__ at __11:30 PM EST__
 - No late submission is accepted
 
 ## How to Submit

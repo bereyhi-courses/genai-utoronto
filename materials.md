@@ -55,6 +55,7 @@ The tutorial notebooks can be accessed below.
 * [Video of Tutorial 5](https://play.library.utoronto.ca/watch/39d3c526bde60753716ec63dc5d6b94b) -- Energy-based Models by __Amir Hossein Mobasheri__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_5.zip)
 * [Video of Tutorial 6](https://play.library.utoronto.ca/watch/a1f2ce84d9f34385099e8e163e2b2ab7) -- Flow-based Models and GANs by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_6.zip)
 * [Video of Tutorial 7](https://play.library.utoronto.ca/watch/7f808d94bf1f9765e0108c73a121f84f) -- Flow-based Models and GANs by __Amir Hossein Mobasheri__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_7.zip)
+* [Video of Tutorial 8](https://play.library.utoronto.ca/watch/1923d151b07261ea167d1a25082ca07d) -- Diffusion Score Models by __Mohammadreza Safavi__ -- [Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_8.zip)
 
 
 ## Project Demo
