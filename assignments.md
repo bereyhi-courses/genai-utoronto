@@ -37,11 +37,13 @@ permalink: /assignments/
 - [Assignment 4]({{site.baseurl}}/assignments/04_assignment4) has been posted on _July 10, 2026_ 
 - Deadline is on __July 23, 2026__ at __11:30 PM EST__
 - No late submission is accepted
+- [Solution of Assignment 4](https://q.utoronto.ca/courses/436032/modules) has been posted on Quercus in _July 27, 2026_
 
 ### Assignment 5: Diffusion Models
 - [Assignment 5]({{site.baseurl}}/assignments/05_assignment5) has been posted on _July 24, 2026_ 
 - Deadline is on __August 06, 2026__ at __11:30 PM EST__
 - No late submission is accepted
+- [Solution of Practice Questions in Assignment 5](https://q.utoronto.ca/courses/436032/modules) has been posted on Quercus in _June 27, 2026_
 
 ## How to Submit
 We use [Crowdmark](https://crowdmark.com/), which has an easier interface and makes the chance of formatting mistakes less. When submitting, please make sure to follow the instructions below. Note that these instructions are __very important__ for correction and investigation of your submissions. Deviation from these instructions could lead to up to __10% deduction (per item).__
