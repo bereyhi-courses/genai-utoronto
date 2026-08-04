@@ -45,10 +45,8 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 4]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec4.pdf): DPM and DDPM
 * [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Known Diffusion Models
 
-
-
-<!-- ### Chapter 7: Multimodality and Conditional Generation
-* [Handouts]({{site.baseurl}}/assets/Notes/CH7/CH7.pdf): All sections included in a single file -->
+### Chapter 7: Multimodality and Conditional Generation
+* [Handouts]({{site.baseurl}}/assets/Notes/CH7/CH7.pdf): All sections included in a single file
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
